@@ -1,0 +1,4288 @@
+{
+  "schema": "steam-inventory-icons-public/1",
+  "size": [
+    200,
+    200
+  ],
+  "rarityBackground": true,
+  "textBadge": false,
+  "assets": [
+    {
+      "path": "assets/generated/steam-item-alchemist-common-common.png",
+      "sha256": "4eb86c56ff385b2e64c16fb384b833360e5d306b50fbfb897c13e02d1d656f6c",
+      "bytes": 60917,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-alchemist-common-epic.png",
+      "sha256": "eb6de75f0a106a451b6fceb2e7696501e4e618368a5e663eeec7725641feee27",
+      "bytes": 63715,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-alchemist-common-good.png",
+      "sha256": "addf64fa6f2b1f37b0d79315ebd1897341801cf3d003cff4b3f7d03bd350884e",
+      "bytes": 62975,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-alchemist-common-immortal.png",
+      "sha256": "18cefd892df6faf2cd6d67bf4cbff43485d6e8ca01a236ea920db1c555127b97",
+      "bytes": 62967,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-alchemist-common-rare.png",
+      "sha256": "1bc5f2360535b7d3a37478d72fc75a6fe8a18ad8bcb491772196d653826c349b",
+      "bytes": 61863,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-armor-common-common.png",
+      "sha256": "e56a73c5053bb7f68e8c82ecd25a2184a6ac6e7b502cbce675f4c8112e929016",
+      "bytes": 59331,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-armor-common-epic.png",
+      "sha256": "7c34f34cbcdee8e81afae5808f4acb43ae4c51b8c593f20a16e2c4bddcdc8520",
+      "bytes": 62065,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-armor-common-good.png",
+      "sha256": "be083f463467a975fea537d59acaa36fe4ac560bec0a05131ded2fc33600d4a5",
+      "bytes": 61732,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-armor-common-immortal.png",
+      "sha256": "e8b3a0e7f33dff9cb78d5e684183e574e9849f3621cf6cc66ffa8a8f8401a74e",
+      "bytes": 62340,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-armor-common-rare.png",
+      "sha256": "b28462843b5f3cbc3a1a01a17ae48ce4bbe3121c6fcca6e7ee21ce3820ed9896",
+      "bytes": 59805,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-boss_ticket-rare.png",
+      "sha256": "e0c12d5e77ae4977864cc138c3450747e322a20084087efd807792a884497fac",
+      "bytes": 60531,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-constellation-star_core-immortal.png",
+      "sha256": "c864139e900d77fd8df77452827912e4386e4a2afe141761d93051b791e88264",
+      "bytes": 69486,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-constellation-starlight_dust-epic.png",
+      "sha256": "256373287b998ab15e7d9f92b1f5a33517038d27f94b3d535eeaeb5e2b27b0d0",
+      "bytes": 68427,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-alchemist-sub_weapon-standard-common.png",
+      "sha256": "4158e1569c74eb5c7079d59c09483411e717d07c34b0a6778fde3a469bc00c13",
+      "bytes": 59713,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-alchemist-sub_weapon-standard-epic.png",
+      "sha256": "0b421f344d051fe9818f75b7e95f5546207436a41870e4ce982a4673c056c00b",
+      "bytes": 62804,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-alchemist-sub_weapon-standard-good.png",
+      "sha256": "7b8c19bbead0b4563155959496d019c5f5ed90399e33d0920ee0df75199fb275",
+      "bytes": 62448,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-alchemist-sub_weapon-standard-immortal.png",
+      "sha256": "00f8cf985e44f4cdd5af2fd08f24e943034af9de843825cc385d07288977a9da",
+      "bytes": 61589,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-alchemist-sub_weapon-standard-mystic.png",
+      "sha256": "585760bb7ab6af426c5c44e5c00a37d12c98cf03285c56b89c275ce67160d8c1",
+      "bytes": 65896,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-alchemist-sub_weapon-standard-rare.png",
+      "sha256": "4122a1f8873b65ad00dd6c2151ef5f60d23c3ef83bffaa1ddffced1f557aa458",
+      "bytes": 61131,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-alchemist-sub_weapon-standard-spirit.png",
+      "sha256": "033c77e7b84eeab16ee33821cc7a9ffbccc6ce0786dff81ed04e1272795b0896",
+      "bytes": 60517,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-alchemy-common.png",
+      "sha256": "832758fe7e2d0ac68775d9f211a76e212a9e79175d6bd875548d935b6091456d",
+      "bytes": 57465,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-alchemy-epic.png",
+      "sha256": "7fdaa2a68940a082f627f1d025ae30d2b4fadd4c03e0a5f9c6194feda6c432ab",
+      "bytes": 59991,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-alchemy-good.png",
+      "sha256": "bc11ad7b261ea7ce1a0ac597c299cc977f475bbc18c94cc6cfaf41b7e9cb8ccc",
+      "bytes": 59316,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-alchemy-immortal.png",
+      "sha256": "4a968912d9baf2e8b1efce0b8f249a8028d8e10915c9caf19af0fd0eea274769",
+      "bytes": 59875,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-alchemy-mystic.png",
+      "sha256": "e2d485d9651ea9cf3a9980c39d10cc0a7d720b171a00b8d1d79569a5045f7ad9",
+      "bytes": 62859,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-alchemy-rare.png",
+      "sha256": "f82435c16b8d8547a678e19f085a6c745bb5387678180f1b91a60e4547345ffb",
+      "bytes": 58061,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-alchemy-spirit.png",
+      "sha256": "f74aee0823c77a3ee4a45b06ca0b22f5dc4901b204b0dfb83db1e6aaa56ecab0",
+      "bytes": 58203,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-boots-standard-common.png",
+      "sha256": "ca526e94aa8bdd13458bbbd80e66c6da547a638927e6542a63392375ee3a70fe",
+      "bytes": 61864,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-boots-standard-epic.png",
+      "sha256": "23e694826e411ef89f64094f0c6c84706dafcb81c6a3ad37fedaa5efa1ff55ff",
+      "bytes": 64903,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-boots-standard-good.png",
+      "sha256": "fed5d301c470aa163c48ca0b944dc8d23689e27f806256d36ba103697db01acc",
+      "bytes": 64760,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-boots-standard-immortal.png",
+      "sha256": "3dd75de3f506ac057e846dce2cf7ce4781986c2a30da113bdde8830e4b165b03",
+      "bytes": 64559,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-boots-standard-mystic.png",
+      "sha256": "b3b2f6d4c1cdb9663dd7c3cd4b27f9f93e430764d0d496f487206c9ec618e2c4",
+      "bytes": 67566,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-boots-standard-rare.png",
+      "sha256": "8a65ab7ac198ca52993443a3bcecbc439b112025dddf69ee401b266ae95924b6",
+      "bytes": 62940,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-boots-standard-spirit.png",
+      "sha256": "11dcb5abaec611076a5c50f3d49208086c4aa9a0380fb38dce97d4e3c2c9384a",
+      "bytes": 62895,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-boss_ticket-rare.png",
+      "sha256": "515dd948671f938c530ee55628c415de9730fbec70c9b224f57e9df7c7a44f4d",
+      "bytes": 57379,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-bracer-standard-common.png",
+      "sha256": "54822c1e329378ff860159ce26dc610fc52c002268140329991fb2c4823dc4e6",
+      "bytes": 64581,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-bracer-standard-epic.png",
+      "sha256": "ac987097e62516ed205302f0933740280619c742d2f12a5210d11629ab9af9e0",
+      "bytes": 66925,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-bracer-standard-good.png",
+      "sha256": "a9bd61a1689261abd15f5294a462f941a3ad98af6145b47308943c0bef34ed2a",
+      "bytes": 66867,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-bracer-standard-immortal.png",
+      "sha256": "32c7c18b83cb75bf00215ea96be103c4cc32ced97b413888d55c52f42659a991",
+      "bytes": 66663,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-bracer-standard-mystic.png",
+      "sha256": "ccef19094fdcfaff04120e2189711d3f9f22e7d396c5c46ac2d4c07443c64906",
+      "bytes": 69382,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-bracer-standard-rare.png",
+      "sha256": "305068c721868611afbf0777f24b0b3d2b6e8c31d836c7f516c390ef0fcfdc75",
+      "bytes": 65123,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-bracer-standard-spirit.png",
+      "sha256": "84ecead270e09f6b6ac5a7f6b45d88ab51c0176c54c1a639f7d38a63b5f1077b",
+      "bytes": 64510,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-crafting-accessory-epic.png",
+      "sha256": "b6609e9fdb935f865b869ef9759375efdd9cbb19b2cb2d48733228c00821a78e",
+      "bytes": 59395,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-crafting-gear-rare.png",
+      "sha256": "d23aba3694596abdee318e440560cbd53308910c1badd90ef99dede087accebc",
+      "bytes": 61433,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-earring-standard-common.png",
+      "sha256": "d9463be76b8c4ec4a4f4f9c40ca9bf0ef83fb235e0602618cb455281ebe72219",
+      "bytes": 57083,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-earring-standard-epic.png",
+      "sha256": "85bf2592552c643bd08828f2853bac95bbd8c737825484a4be14f449816b0470",
+      "bytes": 61168,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-earring-standard-good.png",
+      "sha256": "4779aeff553becc2d5f61e5181543c4ded295344666655ee166ef1cd0dbd8c33",
+      "bytes": 60484,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-earring-standard-immortal.png",
+      "sha256": "d955cb631e82efdb38151e68ff40701508ca955ff845d1b297add2b1047a04fa",
+      "bytes": 60721,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-earring-standard-mystic.png",
+      "sha256": "2b69556eb5e11176dd85783065373755545f567cc9e488c0831657157f8641cb",
+      "bytes": 64512,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-earring-standard-rare.png",
+      "sha256": "8ea81c9680011dfe7c8661d175f46db7760c50eecbf0dfc17cc5ef4b6e14a0ea",
+      "bytes": 58576,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-earring-standard-spirit.png",
+      "sha256": "65ffe289f8a0284bdfa64fe8450b7e9f617b7afab55565d1c411d5dcc8ef4099",
+      "bytes": 59083,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-gloves-standard-common.png",
+      "sha256": "ff72e9fcceb842ef263dd64330353d41c6049fb7bb306587af56f0f1c1d2ed3f",
+      "bytes": 58432,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-gloves-standard-epic.png",
+      "sha256": "81f4b3166a99da58c728b3fe99002ebba4d6a1ac7cc864412e6cc57872eac945",
+      "bytes": 62339,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-gloves-standard-good.png",
+      "sha256": "d230962af384c35fd2110e1a4acc1270f60a7af8f23445214be2771083928522",
+      "bytes": 61813,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-gloves-standard-immortal.png",
+      "sha256": "ffefcf0549376cc43960131640410199d8e565944122ea5435499b2601baeb4c",
+      "bytes": 62099,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-gloves-standard-mystic.png",
+      "sha256": "ffdb68b6cc0b97c88f1752c5f6f6d14f8cbe4bb40ffc9bff77c05648f2768918",
+      "bytes": 66271,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-gloves-standard-rare.png",
+      "sha256": "12793d330f0b8b1d8302543913cae7d240dd556072be73f760911df0f693b01d",
+      "bytes": 60120,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-gloves-standard-spirit.png",
+      "sha256": "38d7651d9d3a87e197226fc9d7bd5133cd723ebbe5f6d13375ec4832b03be918",
+      "bytes": 61424,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-gold_exchange-immortal.png",
+      "sha256": "1c5d5307a3a17caad25743d6118abfe41ecb43fbb242c41269cd8a9a3e34f556",
+      "bytes": 63225,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-helmet-standard-common.png",
+      "sha256": "65ae4c6db00ebdda806598c085ef245a5800ee8852e8e00564712ffe20c79bd5",
+      "bytes": 59468,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-helmet-standard-epic.png",
+      "sha256": "3c094607bb231c41d780508c53c7ac784b2b88fddae23fe2884322237e260b51",
+      "bytes": 62567,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-helmet-standard-good.png",
+      "sha256": "f1e36bd88375f47d84a200ec2875782418c98b711248f882ae82178803885cb4",
+      "bytes": 62099,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-helmet-standard-immortal.png",
+      "sha256": "20fd347a65c0ab8d69cc5ae23e82bbe75403b0d5c3ef61f802f178f7a7faf104",
+      "bytes": 61930,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-helmet-standard-mystic.png",
+      "sha256": "55282e24aff5fd009052222fe6c3b817612588bf40c18de505c3ef08960d3d98",
+      "bytes": 65098,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-helmet-standard-rare.png",
+      "sha256": "8dc24f3b1afd2398320179627416dc987b0a5de2912d284df17134be69607f28",
+      "bytes": 60509,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-helmet-standard-spirit.png",
+      "sha256": "ddcb7c7181b41a790451d92f63b3223896fe866b1ac5236a8dc88e4f7f6d26a7",
+      "bytes": 60083,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-necklace-standard-common.png",
+      "sha256": "e5f728fbb7e9dd5c944fef94b0a2568e315ba668ad9e62cb5cbac2fc67870a6f",
+      "bytes": 56193,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-necklace-standard-epic.png",
+      "sha256": "87aa816f9ecf89c0bb798b494e9d89d45d85fb1cdf746402d235b082e583790a",
+      "bytes": 58950,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-necklace-standard-good.png",
+      "sha256": "2f36b876e6fa01943c2cfa56199b04bcee10c0454ec22a75743873552a1c93ff",
+      "bytes": 58706,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-necklace-standard-immortal.png",
+      "sha256": "244f4d345b172fd9df7b3789ff70d28907c2298b6c38573ba36aeaf67d6d97fa",
+      "bytes": 58639,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-necklace-standard-mystic.png",
+      "sha256": "9c42c5ab08d6a1ca7fd85d70900464eb1e998e09dcc1318bab2ce2f1602883b3",
+      "bytes": 60328,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-necklace-standard-rare.png",
+      "sha256": "1d582510e9f5af9869dddfdcdc81db9c31117e54d11f5d44df0d6d9bb3bfbad6",
+      "bytes": 57006,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-necklace-standard-spirit.png",
+      "sha256": "742120576e441efece3c91298bb7803ee0e18e704789457a3c43ae254b8fb591",
+      "bytes": 55862,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-ring-common.png",
+      "sha256": "6b2eece19d222e3a8e5530a426f13090d9f8e96e4c0eca03056bab453cbd0232",
+      "bytes": 60679,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-ring-epic.png",
+      "sha256": "d8e5ff3248fac055b64f85796f975b8fa127ec777a52b325c3f99b0b491138ee",
+      "bytes": 62433,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-ring-good.png",
+      "sha256": "6e3000d6fa3317791472d85d4528595ba4a63838ba35365dec8bc2da973860f0",
+      "bytes": 62425,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-ring-immortal.png",
+      "sha256": "76f991619496797e0b46a7b54e5e335f48864df904624a9fcf80d1268b3f68a3",
+      "bytes": 62557,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-ring-mystic.png",
+      "sha256": "4e4ac8d781968158c46600bc9df0ae55ad945291311c80c2b6e9c7e2cf6917b5",
+      "bytes": 63487,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-ring-rare.png",
+      "sha256": "4ebf596c91ede279a900046386a013c88e904afa806733d548a3590d6f4a684f",
+      "bytes": 60531,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-ring-spirit.png",
+      "sha256": "e0ba3182bb04fa52afdcb05d9d4c8b6db86ba215d632a50dfac153d2aea31f4a",
+      "bytes": 60099,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-robe-common.png",
+      "sha256": "0c2d050ae8abeb46b049224de79aed037edee5b99bd8a89e882c838a6f56f5db",
+      "bytes": 59513,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-robe-epic.png",
+      "sha256": "f8d177b30677f1642fb66ae07f8a1321f7d67afd4c37c0bd0ddafb6db440fd2a",
+      "bytes": 61346,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-robe-good.png",
+      "sha256": "621b01bcd04448d6220bbcc81fe547a990522c4758fd15b87a99c09d2b1fad05",
+      "bytes": 61169,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-robe-immortal.png",
+      "sha256": "2a61dc9e7688dd73729273ee488c4b716707fa1b1bf28e025f542864fe4ae00c",
+      "bytes": 61651,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-robe-mystic.png",
+      "sha256": "4af5e1ebb39ae79d2d125376983fdc4af3f5b4800e3fcb4d8388dce3b1c2768c",
+      "bytes": 64187,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-robe-rare.png",
+      "sha256": "2c596f595be768a429f5e51a523e6a771c0a79f4185cf4079bb68862680a9e20",
+      "bytes": 59622,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-robe-spirit.png",
+      "sha256": "91b63a58b3ca5aa7e852287b63b2d42cd420c239e4f5a6748205a49ee107a461",
+      "bytes": 60407,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-star_pearl-epic.png",
+      "sha256": "eef07619526b32a0d3e6583ea1291e0a729931742e51d83e853079300f7475cc",
+      "bytes": 56589,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-sword-common.png",
+      "sha256": "a3a50ac67d7bc657814f7e0b1bf31ec908b846012f21248f54fc3a5083239a21",
+      "bytes": 47969,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-sword-epic.png",
+      "sha256": "93c2bbc6bdc32a2f1ac9dd5b4079479386623eae1a5523c9a1cc2de64b4ce1e5",
+      "bytes": 51181,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-sword-good.png",
+      "sha256": "ba24d640adb8301ee280c87468403752602546ce521b2819d4dc4b29f8a32410",
+      "bytes": 51099,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-sword-immortal.png",
+      "sha256": "556c9c5f9a2a4e3e697519aefb92c6695a228f0915c949e2551353454e0ca480",
+      "bytes": 51529,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-sword-mystic.png",
+      "sha256": "3a078a94774939e5f6c829f641a2a7c5b8ec57709cb71037d9ead13c47363d17",
+      "bytes": 53344,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-sword-rare.png",
+      "sha256": "085fc9eff42c9f581674580d5ad7a223c7f7d742c2698b638a31875e6c7037c7",
+      "bytes": 48766,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-sword-spirit.png",
+      "sha256": "e514eae56de185cdef8a95628b7088390ab8725c7c581e24e2459c669237b9c5",
+      "bytes": 48363,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-sword-sub_weapon-standard-common.png",
+      "sha256": "6e2d817a4531326dac38d6323eac51ef040c973b74a0ed32ed9a8022133f1c39",
+      "bytes": 57818,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-sword-sub_weapon-standard-epic.png",
+      "sha256": "d4a87d5fe5ee0eb852daef03f375b9cb4e0b331256b38f57519fb52ecf66b3d3",
+      "bytes": 60479,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-sword-sub_weapon-standard-good.png",
+      "sha256": "afdd6b8a2183e39248b94600f5cc13cd005542dddbe86fc844f87a40bb27b76b",
+      "bytes": 60276,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-sword-sub_weapon-standard-immortal.png",
+      "sha256": "d4932febdd70fe0e38a0aac2807ba1bc26cb52f27557c7f7f00851f328485acd",
+      "bytes": 60868,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-sword-sub_weapon-standard-mystic.png",
+      "sha256": "7b1f3f89f2929bb29a7b64a1205fbfc6344af4779a0a65649d8f0e096dc9ddab",
+      "bytes": 62783,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-sword-sub_weapon-standard-rare.png",
+      "sha256": "85498f7d4654bdf8ca42cef01f50ae5339fc0baa90590a19fd23610aa93e0181",
+      "bytes": 58144,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-sword-sub_weapon-standard-spirit.png",
+      "sha256": "6dd7971df7188b5b02f4eb7453a60276a190e9486e2dbf1b8fbef49424bf54a9",
+      "bytes": 58633,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-talisman-common.png",
+      "sha256": "99688e78d8232c83746ff5fbf8044210c45ab6f84104b40c32be1b88e913591c",
+      "bytes": 63315,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-talisman-epic.png",
+      "sha256": "dced095dce509d1bf65936b47ac5cacf88ec91c04d45c08b926f6fe7ade7e7d7",
+      "bytes": 66359,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-talisman-good.png",
+      "sha256": "dec31fa232ef641fb02dd178afe19df23393fb3038dad8c0c92b48ff37456985",
+      "bytes": 65743,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-talisman-immortal.png",
+      "sha256": "ddfbff7ea8d3b226e1d1a20f5e375e4bd4d1b40824667ff00bc9441f296d4b6e",
+      "bytes": 66379,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-talisman-mystic.png",
+      "sha256": "c7bfcd5f5d3ec7ba229fd1bd447a14aa042f0adaf621310bfc029e8563ee24a2",
+      "bytes": 69201,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-talisman-rare.png",
+      "sha256": "8ceded79881a1bcb369f48c7e65a0659b1723795e9b800a41595f4583dcd8543",
+      "bytes": 64151,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-talisman-spirit.png",
+      "sha256": "87bfa0cc2fe6bee8901b426ba71dfe3c4782affa39407f1f9132d935a225d558",
+      "bytes": 65364,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-talisman-sub_weapon-standard-common.png",
+      "sha256": "daf5e91cbf48750f9bddfacf92f7a83237011dc696e2066eea2b2a9f4f117e45",
+      "bytes": 63318,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-talisman-sub_weapon-standard-epic.png",
+      "sha256": "b37cb82987252a12f96b0797d852c269ac3cbec682b43adb5e0fafb24115b86d",
+      "bytes": 65032,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-talisman-sub_weapon-standard-good.png",
+      "sha256": "e31e72608ea274268c24e19138bbc86e553627f7b2d4fe61846c0c75f67e1c1a",
+      "bytes": 65048,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-talisman-sub_weapon-standard-immortal.png",
+      "sha256": "7eef798040ec4f80b6760afcba6a08c198225c2b494605f1999db20a651aa4e9",
+      "bytes": 65344,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-talisman-sub_weapon-standard-mystic.png",
+      "sha256": "2c135c1d833af01c9da1ee7326d245650805410356fb18ba4043f989f44a410b",
+      "bytes": 66924,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-talisman-sub_weapon-standard-rare.png",
+      "sha256": "cb72e000202c8714883a2bbabe0b0845d9734e6d39c69af1328858df38b1a5b8",
+      "bytes": 63279,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_early-talisman-sub_weapon-standard-spirit.png",
+      "sha256": "af10d4c52e92bb0456c31ceb9de139ce0d00d2a5d649b868afde9b430b830dc6",
+      "bytes": 63339,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-alchemist-sub_weapon-standard-common.png",
+      "sha256": "0e2d405fbf11763ab9ce59e87d45bb2a8baf4d1d34e1a5275e659422c71ba59b",
+      "bytes": 68249,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-alchemist-sub_weapon-standard-epic.png",
+      "sha256": "ca0995330a222da33f889e55f6af5a04154dffd1892d62e0e673ada97600b9c4",
+      "bytes": 71056,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-alchemist-sub_weapon-standard-good.png",
+      "sha256": "8a7a3cbfe7781e878930cf426f28e299d5ca44d1c121ba92076a0598d74c1c27",
+      "bytes": 70225,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-alchemist-sub_weapon-standard-immortal.png",
+      "sha256": "1dcabe1a20386cfc058902fa930a06e7b8d089a0e8739644773797fdc4ebaf9c",
+      "bytes": 70507,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-alchemist-sub_weapon-standard-mystic.png",
+      "sha256": "6182a9e1e67a04fb81d024144f41e51752ab4bd0708ac844f3adb3d33fa6a325",
+      "bytes": 74612,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-alchemist-sub_weapon-standard-rare.png",
+      "sha256": "31ed8bdd252c46299d4ff819c07cf74da0dd43e24030c8f0bc3624864381cafb",
+      "bytes": 68952,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-alchemist-sub_weapon-standard-spirit.png",
+      "sha256": "c4da0e68dd0b42f02ce9dd499e5d0527b2524070b5982646a9bb523e47006afd",
+      "bytes": 70334,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-alchemy-common.png",
+      "sha256": "3a984d22e1777888a19c9a3e81271f6d00993501d037b311ec96f0d2e6f9fe59",
+      "bytes": 59883,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-alchemy-epic.png",
+      "sha256": "d10db90bb0b0163596e5f539e7804657b174275d0836b22efa50b0f62f0f6da6",
+      "bytes": 62762,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-alchemy-good.png",
+      "sha256": "7e874edd8442fd7406fa32a7058cb13aca1a89e0ad09f8191c51a5009bac3610",
+      "bytes": 61827,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-alchemy-immortal.png",
+      "sha256": "ff7cf9ab20efca7feb301405e9a13affb94d73c743624d9952a62372224e4503",
+      "bytes": 62518,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-alchemy-mystic.png",
+      "sha256": "3f38551c4fe46a310efafcda6b46ac520e225fe6048c12457234becc9cf734d8",
+      "bytes": 65780,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-alchemy-rare.png",
+      "sha256": "4e7a0cbdce0473b4a42682ec25da0cf04dfa6319bfbefe16f669a9b83e9df3a1",
+      "bytes": 60708,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-alchemy-spirit.png",
+      "sha256": "e3ee115de31251552c2b80887780996304b3cd4fa57b3d91622b023395bf6b25",
+      "bytes": 61084,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-boots-standard-common.png",
+      "sha256": "ea63d23da5fdcef66eb9e055d9b1f91e9ec46cd32c2fab5675c7116ee882df4d",
+      "bytes": 61785,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-boots-standard-epic.png",
+      "sha256": "4a0897f8471731aa71026355baa18df45c41653839e44b7efcdee0d8f22c06ec",
+      "bytes": 64473,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-boots-standard-good.png",
+      "sha256": "a4c0d12fcc510f0e92f706b93fb57959492ffa89cfb1e65c7d57836523e1ab08",
+      "bytes": 64246,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-boots-standard-immortal.png",
+      "sha256": "b5cf1d2db05824fa3fc925bb45f091cc58faa6a5b10e85ae6377b01f813b029c",
+      "bytes": 64448,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-boots-standard-mystic.png",
+      "sha256": "478d05ee8be066163fb0cd0b1a95f6c0441d3e0ea3be1bb79df8fde34f6a163f",
+      "bytes": 66967,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-boots-standard-rare.png",
+      "sha256": "4c97276501d39e961e6e44605990fed017419fd27d21e1e8b3ed54ab3a37960b",
+      "bytes": 62318,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-boots-standard-spirit.png",
+      "sha256": "9092d2074e6ef7c86ffa779edc47aafad33a37e1507d3a0f20b4e46594eca3bf",
+      "bytes": 62543,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-boss_ticket-rare.png",
+      "sha256": "7dfb062cd4c83409b0e98155ed8fa25a19c017e8c71eb9a3faa4cb8de867f966",
+      "bytes": 63547,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-bracer-standard-common.png",
+      "sha256": "8575987b4f1955001948244f008fbb26450b6e758395f2dbbe2bbf214cce11f2",
+      "bytes": 57116,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-bracer-standard-epic.png",
+      "sha256": "94b72746e0f78904e5a8c5613b1f04e53489bf0e9aaef5b404bc17f024049987",
+      "bytes": 60084,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-bracer-standard-good.png",
+      "sha256": "abf85726f45fa871fc7d486425e28cd269af3b0a3a61e939a37f7cfe64437dc5",
+      "bytes": 59786,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-bracer-standard-immortal.png",
+      "sha256": "c5c671d6765e03357f01c0c99660cdcc27c3c0397390b2d02e810e19df9ce614",
+      "bytes": 59986,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-bracer-standard-mystic.png",
+      "sha256": "c7740c7fb4b66b3333b4b0efd699e62d84bc408d4f160a553aca742e6d92d333",
+      "bytes": 62553,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-bracer-standard-rare.png",
+      "sha256": "fb1e4f862c1ee66009c951a5939201c7e1156c3ad9aeb76177326970e4867836",
+      "bytes": 57874,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-bracer-standard-spirit.png",
+      "sha256": "261ba4fc145c6e68f5d68c3f000161c0e680451210a25bb872c92e2d6c524a76",
+      "bytes": 57305,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-crafting-accessory-epic.png",
+      "sha256": "7e860a981538f371da1bb76cd549eb8f08ebf853359ca59abb6ed630093691c6",
+      "bytes": 67127,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-crafting-gear-rare.png",
+      "sha256": "80d136dfb1593ca713938ba8776b366ebd94b97bc748827b5cf888292fe8dfda",
+      "bytes": 60199,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-earring-standard-common.png",
+      "sha256": "e2442d9aaee30c4afb135cf804188c7031181d6b24930c036a87f5b65dc09426",
+      "bytes": 53598,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-earring-standard-epic.png",
+      "sha256": "4e26c6136b6ad5a42436efe9cf1dd25798ca66f6a6a0a04cd3b9c19391f5c726",
+      "bytes": 56226,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-earring-standard-good.png",
+      "sha256": "cf6640342a1b1b320b2b1b44fd928d560141a74df99d179f11ed1c48c992a20e",
+      "bytes": 56315,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-earring-standard-immortal.png",
+      "sha256": "95e83dd91d6c9312c298b6586ef7d25b87bc17e80e1a0ed8e8c8649262014e81",
+      "bytes": 56730,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-earring-standard-mystic.png",
+      "sha256": "2f4543cc9d0df484d5ae2e2e6a21a1fe25a0e411b8763a5463719b20d2710446",
+      "bytes": 59319,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-earring-standard-rare.png",
+      "sha256": "ac06ba3718b6e74302c3eb80020d906ec0d667bab17370832daab6dfcb57e554",
+      "bytes": 53938,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-earring-standard-spirit.png",
+      "sha256": "7db12a99d5a61089853164fb7e6d0baddee05fb5ee5edc2327b9d3ef8c6dd5ac",
+      "bytes": 54045,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-gloves-standard-common.png",
+      "sha256": "3865a6046646ca9f9bc10457bf322d11f82f44c7441425093ee72171a470226d",
+      "bytes": 62736,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-gloves-standard-epic.png",
+      "sha256": "d0eee08a769cfcfe444ffa7dac3ca324b47c05b4890fb12d7635424f1e2c944e",
+      "bytes": 65635,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-gloves-standard-good.png",
+      "sha256": "f40b5244ee22ebaad05b0461fd8b2546e9a4cd37b86b330666b0c99410668259",
+      "bytes": 64659,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-gloves-standard-immortal.png",
+      "sha256": "143b0a62c91f925c25d9d691730f7b8e6ce4671d9134c64fddc1993de1957fd3",
+      "bytes": 65821,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-gloves-standard-mystic.png",
+      "sha256": "0c5eebeaa61dbd845e19d84fb3438ca7e710f49f887a635e353f8386c6e6f94d",
+      "bytes": 68788,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-gloves-standard-rare.png",
+      "sha256": "9cdc67da31078eaeed1b9275a7e4e3d72cb986bb0078426b823a6848fef9750b",
+      "bytes": 63222,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-gloves-standard-spirit.png",
+      "sha256": "846a547da69a35773d8b37b75f91e6ec579e7758911e72c796603c70c61a4f80",
+      "bytes": 64832,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-gold_exchange-spirit.png",
+      "sha256": "2330e781c2e74f1347920f998f89a05b84cdf4d7ff1b96c07f0f134f58a40e87",
+      "bytes": 67933,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-helmet-standard-common.png",
+      "sha256": "e490e103c4dc5b166db88afe05c53e62e72a36730c5fa4cb719e37a832479b41",
+      "bytes": 57478,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-helmet-standard-epic.png",
+      "sha256": "9d748ea63f658c64cd5f15ae6513c83922e8600a3ced78212182cc9aa6e090c8",
+      "bytes": 61786,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-helmet-standard-good.png",
+      "sha256": "8f731b81a2cf8f1a54d5b95fcc511c9bcb640d0f26fb4af088dabd0ba09d9ae3",
+      "bytes": 60828,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-helmet-standard-immortal.png",
+      "sha256": "e9d3462b15cc45e92c2c830a1da109e1ec2978bc74e6edc248b9a13f01aa6269",
+      "bytes": 60978,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-helmet-standard-mystic.png",
+      "sha256": "b95c44948ec4a1ddf3edcb43891d49265599ea76d3e70b41af26bcea1ea03e7b",
+      "bytes": 65133,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-helmet-standard-rare.png",
+      "sha256": "45c553ea5febb0a6413e5e9923eed11aa00e6c36fb8a1dad76c0ca84e594b00b",
+      "bytes": 59334,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-helmet-standard-spirit.png",
+      "sha256": "9441d86db1f3afa9b81e5fdf7bd84762087df27bd9f8028997af33eed4df7dd4",
+      "bytes": 60184,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-necklace-standard-common.png",
+      "sha256": "9a5a3957ba55e106746aa9391a458ff4946496ab28f539a460df6bc309352491",
+      "bytes": 57693,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-necklace-standard-epic.png",
+      "sha256": "73c305227c73a3f80a006e897653c9909c693f962fbd55462863451a74bcf5d6",
+      "bytes": 60359,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-necklace-standard-good.png",
+      "sha256": "dba7531a1f81ae0b84520a7f94ae2bf1069d4ab2cb8d1ae3fc22c47274d25734",
+      "bytes": 59932,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-necklace-standard-immortal.png",
+      "sha256": "30eea760d0c6bcd8a2fa76f80d3a4ceafad0676d9ecf3490b9af3822b061c046",
+      "bytes": 60388,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-necklace-standard-mystic.png",
+      "sha256": "b91ceb77fdc86c8f842249756bc9ec4b60e640bad807949406925dbe1528e584",
+      "bytes": 62851,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-necklace-standard-rare.png",
+      "sha256": "aaa9dc648984948368a638c39b9ffe9bc45bd2f6b9e93eaeb22d7dfc2d0d75c2",
+      "bytes": 58096,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-necklace-standard-spirit.png",
+      "sha256": "c95e46460bbfe466a8017403f4192f13a078153d54a46acd03fc3077cbd3b403",
+      "bytes": 57960,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-poison_armor-epic.png",
+      "sha256": "b4e5711961a72056826a81c3358708da0873b7b35bfd55cace4c9b16bdd34d27",
+      "bytes": 75240,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-poison_armor-good.png",
+      "sha256": "31e25268e2ae89e4f6aeffea01eaddde7c880db079b67d4163e9b651b8008c2a",
+      "bytes": 74937,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-poison_armor-immortal.png",
+      "sha256": "2b298214992ba24d7aa26f4252310512297e1a7173ecad43c9641ba238d666a5",
+      "bytes": 75672,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-poison_armor-mystic.png",
+      "sha256": "ab09161f0a4ff5e5741b55bdcfbbf9d78b11ed2563dfbac5505f6ec45894d7a4",
+      "bytes": 76915,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-poison_armor-rare.png",
+      "sha256": "f168800c77bea010469e6b661cce08ccc4149600aa6327c7300d1414ca963bdc",
+      "bytes": 73830,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-poison_armor-spirit.png",
+      "sha256": "876d68312cc54304f0d3552129cbf3bb7f3b704020523913b642b8577461f1af",
+      "bytes": 73974,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-poison_resistance-common-common.png",
+      "sha256": "03fa42a8d23b23a80444e680600543562172169eeaf4c7d2b4597519970bb0a3",
+      "bytes": 67468,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-poison_resistance-epic-epic.png",
+      "sha256": "843e61e2b86818834df5d515a41a863deab35358eea615a13f16969d207fdd43",
+      "bytes": 68659,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-poison_resistance-rare-rare.png",
+      "sha256": "1cb4e95f3ec1011d9ead1eb088c6df30c1da3388126a10f5d4e618405e8c0543",
+      "bytes": 68482,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-ring-common.png",
+      "sha256": "f79a965e6627a031c24f5cb025e8e88bbfe85374559bfa9a5de1dd5d72da236d",
+      "bytes": 59855,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-ring-epic.png",
+      "sha256": "028059460d79aa2a265109d99b1d6e4a5d3f2ee84eeb3f64c90c44a99a3f15eb",
+      "bytes": 62421,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-ring-good.png",
+      "sha256": "d09a9a4cb2b9d460215b8487ae5565b241196f90dd60ba48c633912a0b7af5af",
+      "bytes": 62076,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-ring-immortal.png",
+      "sha256": "4163ae157b770bfcd8da3cc4dd391517dd93240a9b0c3dfde8d0acf55e140800",
+      "bytes": 62660,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-ring-mystic.png",
+      "sha256": "82cf49878ec0cf0cebba05873df06fd5a825929242b539a8f151564f358440a4",
+      "bytes": 64761,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-ring-rare.png",
+      "sha256": "1c68f39edd4a38e3d42154c1358c93e4f88cce802a082eecdac12aff42141cb6",
+      "bytes": 60121,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-ring-spirit.png",
+      "sha256": "d4d59e7eb55e7e3f3f035e1cacc049522594e65ee4266f351636f162df009d9a",
+      "bytes": 60231,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-robe-common.png",
+      "sha256": "92358b99185360e8c4ee8deb77cca2333b9bc1202db1c707f0b195276734ab65",
+      "bytes": 62017,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-robe-epic.png",
+      "sha256": "5b0f275c14632d9740f0a6f519715eb61f5668178bd12d568f240d74871536f8",
+      "bytes": 64085,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-robe-good.png",
+      "sha256": "eaf962d4892f3ea7cf40bd129dcf923359b5edccf2e1fbf27602997419e6d562",
+      "bytes": 63641,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-robe-immortal.png",
+      "sha256": "e4e9d81ff86a35c53adbd5f515128e4137385cff15a8d578aed931a90405b669",
+      "bytes": 64094,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-robe-mystic.png",
+      "sha256": "981fb00ff6ecdabfbb55bbfebd67710dda6b7c50662255c8b15823343e632c24",
+      "bytes": 66705,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-robe-rare.png",
+      "sha256": "7e68a6d3d0189d67276f82c1c01236d6d93f0e0a5abdf096b0b781ebaf6e3231",
+      "bytes": 62193,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-robe-spirit.png",
+      "sha256": "2891546380a831b120e11fd08204e8318af21dfb72beac4251fb9c70e892839f",
+      "bytes": 63112,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-sword-common.png",
+      "sha256": "0d046aff1a21139fb5f4d4e8ee8a81d3a9a55543a2061006a7de73c1cfda853e",
+      "bytes": 52908,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-sword-epic.png",
+      "sha256": "a737b0d52e422dba3e4a89636ba78ef239b1b966882806d52c9a58921a9b980a",
+      "bytes": 55626,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-sword-good.png",
+      "sha256": "bb025ce723e2fd68cbdf3efc916f56f776df6a04e433a5d2a2165185447b4387",
+      "bytes": 55474,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-sword-immortal.png",
+      "sha256": "a080a530ff0515f99ea7ab316fea9138cbc2a424fa17860a55688dbfe0ef00b7",
+      "bytes": 55667,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-sword-mystic.png",
+      "sha256": "786fad2ada6ded6a95512ba2f3abb0f084ca9d3e4efc4275100f951d6af0df7a",
+      "bytes": 56871,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-sword-rare.png",
+      "sha256": "09944988f03b91d74994560ed8eba38907f5662a2a9cb87b5ce9fe52de50e0aa",
+      "bytes": 53472,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-sword-spirit.png",
+      "sha256": "eedb2be332169a438bd8efb07c40221b0fef25c28094c08f3443bafba2f392cf",
+      "bytes": 52413,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-sword-sub_weapon-standard-common.png",
+      "sha256": "e73a3d357b31fcd02d06ecd9399f6fc652da76600befe8d9e52ebfa13389806c",
+      "bytes": 56813,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-sword-sub_weapon-standard-epic.png",
+      "sha256": "924a814d10d99c4336e8804d297bdf13e361543b14fbfbd1aab07a1fce9b2f93",
+      "bytes": 59273,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-sword-sub_weapon-standard-good.png",
+      "sha256": "bea6e569d871e53052c3f180938de081f61e301fa214f014731a9b92868e56c1",
+      "bytes": 59195,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-sword-sub_weapon-standard-immortal.png",
+      "sha256": "fae9a85b75310e1fcc053fdbddde8fec58354b9657d0a4f3d305bff349294609",
+      "bytes": 59726,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-sword-sub_weapon-standard-mystic.png",
+      "sha256": "47a397169087c81c81f569890e554cb08d579fa29f599d3836525bd5fb0a5bd9",
+      "bytes": 61718,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-sword-sub_weapon-standard-rare.png",
+      "sha256": "11fd05fefc7b9071e9646ce93c4dc8e292f6cee3d1212ab59f5d5d3f49f2f106",
+      "bytes": 57023,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-sword-sub_weapon-standard-spirit.png",
+      "sha256": "f640e73fa6ad4a2b5f9ac0ed5bfd3327450f253eebc7776d4d3d9b3ceb7294c3",
+      "bytes": 57057,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-talisman-common.png",
+      "sha256": "6f492a5bab9aed6c2723378e27cb869c86898b2f04ffd9ab3863a00be4bc2767",
+      "bytes": 60874,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-talisman-epic.png",
+      "sha256": "ab6634dfb4a63a8b724bb06ab677184d6c3f98278334a69b8aa213f00bce04c0",
+      "bytes": 63238,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-talisman-good.png",
+      "sha256": "49ef4d46abc362da06e9d814e24f5025ca03741a1b4a40e402437d5b76785327",
+      "bytes": 62942,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-talisman-immortal.png",
+      "sha256": "698eedfd5772c47c07a82819de00dea1d826c8f41fd943ccbbd852c225e7bc6b",
+      "bytes": 63844,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-talisman-mystic.png",
+      "sha256": "f8bfefaa933e5b510ffb7e2c8d6436fc75714c5504c270dc90b43e17d00b9423",
+      "bytes": 65824,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-talisman-rare.png",
+      "sha256": "0b5a0aa9d5a72698df5b822d799f2f822ecbb9d9403e29518430e69a22f49032",
+      "bytes": 61063,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-talisman-spirit.png",
+      "sha256": "fb085b30c6cb33452ad30e6126f6c478db13f74a57d1d3c170a9e33054295d21",
+      "bytes": 61610,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-talisman-sub_weapon-standard-common.png",
+      "sha256": "e6518dfb276d35565c40eb98bd43de5fbcb7514493f1402524c1b2435625bcb2",
+      "bytes": 68810,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-talisman-sub_weapon-standard-epic.png",
+      "sha256": "dc144395927605a21c6c7a0da3f52d5f7891c32d28e63c8d9ad75630a6f3356a",
+      "bytes": 70693,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-talisman-sub_weapon-standard-good.png",
+      "sha256": "4ea7bbd2a484f9dd07e84c206f9fa752913cfd6a6cc28160632a7d1d18aa1abf",
+      "bytes": 70374,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-talisman-sub_weapon-standard-immortal.png",
+      "sha256": "023333c60d1a0711939a76ed6260c7da16bde865b399f304610d4f35663fc3b5",
+      "bytes": 70905,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-talisman-sub_weapon-standard-mystic.png",
+      "sha256": "823360c72ffba09790aed37b05829c73b11ba63c37ed3f001d611f52e2822b7b",
+      "bytes": 73601,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-talisman-sub_weapon-standard-rare.png",
+      "sha256": "c16201d41dbea0a5c7274ce576ea49a15a85fbf785ec5ee49888a1b6514211af",
+      "bytes": 68907,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-talisman-sub_weapon-standard-spirit.png",
+      "sha256": "86b09409dbbc3736e56b70170647d1fba8116722ea11d9b15d2c32e002d6e827",
+      "bytes": 70489,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-jiedan_middle-violet_marrow-dao.png",
+      "sha256": "e33dcf947a8a38446da9f18bd7e2b7b6fe57e8934eb13c31683db0051bfdb64e",
+      "bytes": 85638,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-lianqi-alchemist-sub_weapon-standard-common.png",
+      "sha256": "4af88878ef28aa6ead435c1e148921de2705775a67afa53d2aa51bc3645d7c5d",
+      "bytes": 64353,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-lianqi-alchemist-sub_weapon-standard-epic.png",
+      "sha256": "d2ccbf2feca7576e75cc215082d877131a4b744ed30203cb230aae4e74bfbe67",
+      "bytes": 66522,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-lianqi-alchemist-sub_weapon-standard-good.png",
+      "sha256": "5338fe4b96405ce61f539d53b3734568e592eecc3da68cca4b0eee1fa2614fd9",
+      "bytes": 66236,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-lianqi-alchemist-sub_weapon-standard-immortal.png",
+      "sha256": "77ed08007dbd55539a06d1f14fcb8845c0e2c13893e1bf86935254e5c9dea869",
+      "bytes": 65772,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-lianqi-alchemist-sub_weapon-standard-rare.png",
+      "sha256": "e278e47fb6f6c2315753a1a938f053c091410bb53299b95e83c51796f1421445",
+      "bytes": 64742,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-lianqi-boots-standard-common.png",
+      "sha256": "0d20a94806037e1c3e9666aee6c2a26bd8db3bd6b02d4ba05ccd6c48334e1d2b",
+      "bytes": 56833,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-lianqi-boots-standard-epic.png",
+      "sha256": "432a4f63e085c6395e7b0ce5aa9d7a0a245f1d7e5f742ddf571886eb678b51dc",
+      "bytes": 59150,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-lianqi-boots-standard-good.png",
+      "sha256": "c24e5f2a3c8cf5110204b849c473470026a0a5ea1067c7035816131668a10fd7",
+      "bytes": 58864,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-lianqi-boots-standard-immortal.png",
+      "sha256": "bbe4b3ad9f9ed26259aec0e1c15d90d58c90118da6f4c71578c1257c80623aab",
+      "bytes": 59293,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-lianqi-boots-standard-rare.png",
+      "sha256": "b10a49d3145dc25893d4a338863be120a8befb76dde7968f29e8ff2b1e11ca6e",
+      "bytes": 57183,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-lianqi-bracer-standard-common.png",
+      "sha256": "573d35376a2b8e99b4c5a1374f81cae8c1d4e63be878409fcc431210a53f438d",
+      "bytes": 62935,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-lianqi-bracer-standard-epic.png",
+      "sha256": "8e21eba0df9b1bf96232c78d1569a0d9757f9c400b20ff5a4c7808c3942b5046",
+      "bytes": 65209,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-lianqi-bracer-standard-good.png",
+      "sha256": "da1b922040b48b97dd38b1b7f7930c10388c3af4e8665196d6950dcc53acfc45",
+      "bytes": 64770,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-lianqi-bracer-standard-immortal.png",
+      "sha256": "f8f8342af258bc99318357c867b330038c15e372d087ace42ff524f4411aa5ef",
+      "bytes": 64925,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-lianqi-bracer-standard-rare.png",
+      "sha256": "5c97ebfd5da5674645ea48395f592a0af3aa5e2c878e13a92b0ebd62c22aea99",
+      "bytes": 63426,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-lianqi-crafting-accessory-good.png",
+      "sha256": "abd83609fd86d475eef2e1da272e58e7a6eb59ab16c7f0c6656c3e1fa2495329",
+      "bytes": 59476,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-lianqi-crafting-gear-common.png",
+      "sha256": "df9fe4a581b4c9815915166905bd27a88460cc4c1b9a89f5017d2349fc4aeb00",
+      "bytes": 54840,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-lianqi-earring-standard-common.png",
+      "sha256": "2230e0b3448f02ac2e20d8a582a2e508c221d64da989cf2de73b72822e02fd5e",
+      "bytes": 52711,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-lianqi-earring-standard-epic.png",
+      "sha256": "abf49be691e70fc6ff996c06a8ea85729b68848475a2e8791f354912441c742a",
+      "bytes": 57364,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-lianqi-earring-standard-good.png",
+      "sha256": "1b460dd6781723ca1766afb612e779f32406c51ade8f4ece231dbb13f865191e",
+      "bytes": 56666,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-lianqi-earring-standard-immortal.png",
+      "sha256": "fecb84a0f5f45b36d64f139b23b4210f4083f94dd57ed4483cb7d453e04cca06",
+      "bytes": 56740,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-lianqi-earring-standard-rare.png",
+      "sha256": "fb76c0af5ed694f1b1e8a09a0dafbd7732e75fcc4578f8beaf8e6ca562a2f635",
+      "bytes": 54515,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-lianqi-gloves-standard-common.png",
+      "sha256": "57bba8c2018c7d0e778f67a93f441024dd19b4d9b0fda7a28de5737ae024dbd2",
+      "bytes": 60271,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-lianqi-gloves-standard-epic.png",
+      "sha256": "0f7f401b6bf55b55d17fa5727344ebe945bc3a87a00505ce979468ce5eee070b",
+      "bytes": 61763,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-lianqi-gloves-standard-good.png",
+      "sha256": "3e838d5e1a36a9d9c049677927f3076ad906fc0cff820e3e88039d7942ce8429",
+      "bytes": 61497,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-lianqi-gloves-standard-immortal.png",
+      "sha256": "827829ea3ac05297250cdb53e8a0556a5602a2c68426dd8b8b5e42484d1f78a3",
+      "bytes": 61477,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-lianqi-gloves-standard-rare.png",
+      "sha256": "0e292e46b1b64baf17f1ec6ec2e0fbc4d6a5b22ee516fce5c1c81e6e2a411076",
+      "bytes": 60364,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-lianqi-gold_exchange-common.png",
+      "sha256": "658e6fb27ae621b4f042041e3c1a29c552ccd63e70b8bfcf1f05fd7bf1583cf2",
+      "bytes": 62663,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-lianqi-helmet-standard-common.png",
+      "sha256": "88a4ce15500c67e08d292585f78531dca780afafdd2895990746d312b4c77293",
+      "bytes": 58700,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-lianqi-helmet-standard-epic.png",
+      "sha256": "61fd91ec1ab1a450f034ed48bdbf35794f9c865a7417ef065292646ce31af0cc",
+      "bytes": 61282,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-lianqi-helmet-standard-good.png",
+      "sha256": "5749fd33888c6b6960110fb4e7c78c1343308cfab860cd721edc24dd5a5f7e4c",
+      "bytes": 60414,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-lianqi-helmet-standard-immortal.png",
+      "sha256": "5c20ff7c1a56fcb907f3fa2dd60a44f6b77cfeb4d4d9a7fc9b2c5ff1130e0438",
+      "bytes": 60705,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-lianqi-helmet-standard-rare.png",
+      "sha256": "5e8377bfe92ec73043b92ed1ff98cd80163336b29f61fbda97caecadfbb279ba",
+      "bytes": 59240,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-lianqi-necklace-standard-common.png",
+      "sha256": "08f709b29d2ca5f8e50dec9925cb9c520823158bd6366cc87c783ecea36e60e7",
+      "bytes": 61056,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-lianqi-necklace-standard-epic.png",
+      "sha256": "7ff795ec1fd25724c6aefae998a5743caad62baab9f31ee310fd9679520acaae",
+      "bytes": 62854,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-lianqi-necklace-standard-good.png",
+      "sha256": "1bb1cdeafde03ce7fd3ab130b64a533a3034a8c109fe0129c31e118c52e18adc",
+      "bytes": 62153,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-lianqi-necklace-standard-immortal.png",
+      "sha256": "0f0495859a1d506df8bcfe108dc5b12d521eea0e5ce13e2685d53db039e11995",
+      "bytes": 63525,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-lianqi-necklace-standard-rare.png",
+      "sha256": "7cef8a0833b560c0d070483f881e53f1f61c37575399711b882e5e875c826402",
+      "bytes": 60993,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-lianqi-ring-standard-common.png",
+      "sha256": "5cd13ec001dda4f1fced9345ba5b73e1a72c824da6acee9955822739efff45b0",
+      "bytes": 56844,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-lianqi-ring-standard-epic.png",
+      "sha256": "2cca5aefae7978729f0082c90bd7c973d83f4be9eb547af1c509195d9548809f",
+      "bytes": 60213,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-lianqi-ring-standard-good.png",
+      "sha256": "103a2e9fd6682a7f0dbd7753f20d01ada43e5cd7ba3535ff38d314ab581f44d6",
+      "bytes": 59309,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-lianqi-ring-standard-immortal.png",
+      "sha256": "ae6919121c1919eb8308d1aea09176fb0abbc2a4aeaa4297acade63da174730c",
+      "bytes": 60300,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-lianqi-ring-standard-rare.png",
+      "sha256": "1cddcceb43f8579d946fd360f521b45343524e0350fa4f5d5e0c7f4f37400663",
+      "bytes": 57751,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-lianqi-sword-sub_weapon-standard-common.png",
+      "sha256": "01244d79f13d8bf4f5e8938a83affe8822bff710ad3ab50e64a99a830edd2e0c",
+      "bytes": 64251,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-lianqi-sword-sub_weapon-standard-epic.png",
+      "sha256": "bc521ee704e3e8a2748ed0aba01f1bdf54ec384b6d1187aafd0f7b5bdf63d011",
+      "bytes": 66137,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-lianqi-sword-sub_weapon-standard-good.png",
+      "sha256": "f1baafd72c69576ced4abea42a91234cc9df64aab430d49e2ede95cad3bc9b89",
+      "bytes": 65820,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-lianqi-sword-sub_weapon-standard-immortal.png",
+      "sha256": "c518cabdbd08f0614a25301f64ac858289214943be7ad1f560b0f500ff3c96bd",
+      "bytes": 66057,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-lianqi-sword-sub_weapon-standard-rare.png",
+      "sha256": "d67e61b91011c075499e07563260b581db29e49c669d7d46c0257d24b8142f8f",
+      "bytes": 64240,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-lianqi-talisman-sub_weapon-standard-common.png",
+      "sha256": "a66ac5895f9132ec03aac42852634e56ae2a7929b8eb3fee0eb0ae3236497a4f",
+      "bytes": 61718,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-lianqi-talisman-sub_weapon-standard-epic.png",
+      "sha256": "5377cd76b36db61d8529e3314144a504519e39b04381c4043cb3b2513b1b6dc2",
+      "bytes": 63654,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-lianqi-talisman-sub_weapon-standard-good.png",
+      "sha256": "9f4adb135e15bd09dca763cf0a4077decc860d2aa47e585ca6f7eeea0bdf13ce",
+      "bytes": 63634,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-lianqi-talisman-sub_weapon-standard-immortal.png",
+      "sha256": "80a48316a4de9ecbb82b8788dc89043602f7b35abb671b0ef33a13caaf4a894a",
+      "bytes": 63790,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-lianqi-talisman-sub_weapon-standard-rare.png",
+      "sha256": "e817b96c4c280b2787ea2c8bd6f6a4fbdec9ff2fd9795264cf63b3e0db8ee800",
+      "bytes": 61768,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-socket-chain-chihun_blood_amber-divine.png",
+      "sha256": "c28aad9f88fbe0495ae9f11ca09d2568cad50cb17d84ab25b04b3492ccd9d58c",
+      "bytes": 79946,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-socket-chain-dimai_spirit_marrow-mystic.png",
+      "sha256": "628c9e7e96e8efcfa04c6a93d31b6b535c0fe7c3c422eba0cec5e3249f4d857b",
+      "bytes": 69869,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-socket-chain-fusang_amber-epic.png",
+      "sha256": "2dc875a844a375f7aea1aacf10c1148464fa8d496506c962b4d59f73c1149b1c",
+      "bytes": 72119,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-socket-chain-huiling_stone-common.png",
+      "sha256": "7cf9f6fee10130365aee79022ab79fa59e41a01f2e51a51a3aca44491fc589cb",
+      "bytes": 65315,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-socket-chain-huixiang_amber-spirit.png",
+      "sha256": "c1070cf49312d9d298adcfb0d990bb41e9bfa4065d5860d8adc4c04aed2b5ada",
+      "bytes": 65511,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-socket-chain-jinsui_jade-immortal.png",
+      "sha256": "691b6829cca3b78b52fd2aa37098b59bf8d2dddbf645a63490ff1bd9756a0b02",
+      "bytes": 65343,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-socket-chain-jinwen_sand-common.png",
+      "sha256": "0d76e656469af740730948cebc17822278972745d0d2647ed2b1ee234eaf065d",
+      "bytes": 65473,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-socket-chain-jiuxiao_wind_marrow-mystic.png",
+      "sha256": "757ac6c164d4eec0ff22992325ec9070dbba590de1e94d574e2c825835eecc33",
+      "bytes": 66342,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-socket-chain-qingnang_jade-good.png",
+      "sha256": "8039d69fa9bc6176d00cdf622a0f9bd78986ed5122848ddd6898873d1dc91e4c",
+      "bytes": 67042,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-socket-chain-shuangwen_sand-common.png",
+      "sha256": "384c79fa822d61bb7095abdbe533d9b7ab268563120cbf1b818bb8dbaf124a3d",
+      "bytes": 61503,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-socket-chain-taichu_primal_core-dao.png",
+      "sha256": "e94ae805b421636e508fa30b5f1b60a51871c44f1f0c6449fd925bb71b85f430",
+      "bytes": 83923,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-socket-chain-taixu_resonant_amber-celestial.png",
+      "sha256": "4b45ab912d253b6e5ab6e08ec8c18c2348ff77beec779b333a7c52b2b90a4f93",
+      "bytes": 72522,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-socket-chain-taiyin_ice_soul-immortal.png",
+      "sha256": "1f9cd6305dee90c7444e84ef54e8adb1d27eba9bd4908e6f2b11d0e80a7dcff2",
+      "bytes": 67928,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-socket-chain-wanling_cleansing_marrow-immortal.png",
+      "sha256": "a3156712b222e299bf7505305c206d61829054e2df1e366ebd58f2f7accd2572",
+      "bytes": 68009,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-socket-chain-xuanbing_crystal-rare.png",
+      "sha256": "128833cf291b8aac1639016318626e23dcc729662cf7335abbcac6a35e3f0673",
+      "bytes": 62893,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-socket-chain-xuanfeng_jade-rare.png",
+      "sha256": "b4f0ee61725dccf36ca6a0c8fb06c4e1b23016977dffad96b1d5ab9d96b78994",
+      "bytes": 73647,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-socket-chain-xuelian_stone-spirit.png",
+      "sha256": "7ae0b370cf6e9c3841ffe4bfc2ed6dd7f1458cb886a44023ba1efe8919864cab",
+      "bytes": 64601,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-socket-chain-yinfeng_sand-common.png",
+      "sha256": "692d1e0da8f33e039d9880df9e61e8bb85e383064103e5682c82f818e814ac3b",
+      "bytes": 62417,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-socket-guxi_leaf-spirit.png",
+      "sha256": "10a18f4b1e19ed294f680100d64226568e8d39af42bf5ace6519d96cb0ba8cf8",
+      "bytes": 65853,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-socket-linghuo_cinnabar-good.png",
+      "sha256": "dbbda5d4fd0ee65a11ebdf4fa487e95f24be8ecbb71bdd34a81b4da32e82c658",
+      "bytes": 70994,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-socket-moon_silver_sand-mystic.png",
+      "sha256": "1a7e0a3740526d2efc7284de33cea2e7cbfec28688b87ce1029395f809949347",
+      "bytes": 69136,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-socket-origin_amber-divine.png",
+      "sha256": "7cdab9ddfff982f869e4bbec026ecd18188240af9cb29a74519dd98e251e0bde",
+      "bytes": 72971,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-socket-void_glaze-mystic.png",
+      "sha256": "5781b37ee48b05058b74720e803cd68012a840e91430503352556323a4f64bbc",
+      "bytes": 67507,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-socket-xinglu_pearl-celestial.png",
+      "sha256": "cd281ed568ad76c5961c37165774037216ce5d3d86b41112bf5dfe9b4a387a65",
+      "bytes": 71121,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-sword-common-common.png",
+      "sha256": "1a068a3a6dfe1c803e0559f3aa259d434d31f2f4c3215b86665bcb1456de9ca1",
+      "bytes": 51292,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-sword-common-epic.png",
+      "sha256": "3aacbc1494aef964305dbd1a8bf180e3e40a56c4c6902a42effee0f5916a24eb",
+      "bytes": 54401,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-sword-common-good.png",
+      "sha256": "a4a09537ec9f86285cd58e2eec0b464261639440d4eb0a96a55726737f0434d8",
+      "bytes": 54255,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-sword-common-immortal.png",
+      "sha256": "b80b4fabfe1523c4bbe74bec3fb39d0b1af18d39e87589af21e5696c438cec4c",
+      "bytes": 54840,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-sword-common-rare.png",
+      "sha256": "4e01376dd8b25b70610f7c9259c70735db32480d22350bdb7365dff5ec216978",
+      "bytes": 51677,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-talisman-common-common.png",
+      "sha256": "22801077820815c2a5f16a54cce81ad17879aaab134bc2a2fac533aa56303d5f",
+      "bytes": 56731,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-talisman-common-epic.png",
+      "sha256": "a34928947f2323c75af2a0a5473b0a62ee571e9100cd3cab9be86c09f27d06a2",
+      "bytes": 60478,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-talisman-common-good.png",
+      "sha256": "1709eb61eff294b01b2b098425a96627d1633ffb2850b0182a8729bab6ce2570",
+      "bytes": 59858,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-talisman-common-immortal.png",
+      "sha256": "67f3e87c66ef09797778be2096093868edf319fc8af3e23bd0335e42c977606d",
+      "bytes": 60154,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-talisman-common-rare.png",
+      "sha256": "872da1932207490e5666afb5c4100a53ec9623f48191cbaa4d7308554c63e25b",
+      "bytes": 57796,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-theme-ice-armor-epic.png",
+      "sha256": "cc72dd28a158eb51f7767abaca99a1c09ff8dd2693b5e855f2ed70b39a0d8a45",
+      "bytes": 77317,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-theme-ice-armor-good.png",
+      "sha256": "acc86a2361588b29763b1258488a7b8301ec0ab760bcc73b1b2328d4e1da1dd9",
+      "bytes": 77102,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-theme-ice-armor-immortal.png",
+      "sha256": "c79609328ed101a41c7524c464593196851c95f64bf80f5993c76a377a4d2caa",
+      "bytes": 77542,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-theme-ice-armor-rare.png",
+      "sha256": "b3e65b2525c24eb6db2a3cd6f1595e556164db7a924f939d09eb818b499767f0",
+      "bytes": 75133,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-theme-ice-armor-spirit.png",
+      "sha256": "62774ba192bd4c5ab9b132e13f1b12584426b1ca29606d2629562097c75ee411",
+      "bytes": 77030,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-alchemy_gourd-common.png",
+      "sha256": "599f7330deb0fcf71340ed4ee30990406e8477124cd602efef49ffb0e26700d3",
+      "bytes": 55906,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-alchemy_gourd-epic.png",
+      "sha256": "43537fe2ae624fced51d069e2bbfbe728a530a1007366f877bceb502017b9e8a",
+      "bytes": 58813,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-alchemy_gourd-good.png",
+      "sha256": "94b62beee663782d557d1169a91c6c716ba2c7cec4aa61080c78c8eee3a74546",
+      "bytes": 58507,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-alchemy_gourd-immortal.png",
+      "sha256": "db0c809b4282520014ad01bea41cc5d4a8674bfebd424ba08a03e87d553ae311",
+      "bytes": 58142,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-alchemy_gourd-rare.png",
+      "sha256": "f81a5660f72b3b42b5cb360778914265525fab00a9f54e940a3bf7afdc2af899",
+      "bytes": 56557,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-alchemy_gourd-spirit.png",
+      "sha256": "b7e91a41458a8c8e3b37bd61666b1cc8718a3083a2f9bab50b91f5a264ee0765",
+      "bytes": 56286,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-alchemy_lamp-common.png",
+      "sha256": "15bd7e3bce0150cd04912abbf57fb1ad22a27269f786121b44a586a171b3a5c8",
+      "bytes": 61090,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-alchemy_lamp-epic.png",
+      "sha256": "5c641492a25643edf31d92002ebf88c993659805c2b5d6e8c66974c137b311a5",
+      "bytes": 63686,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-alchemy_lamp-good.png",
+      "sha256": "4ff788c01fbc2ec4294fac7360de79ca3aa4a187e5c0089ffabe1acc9868d852",
+      "bytes": 63347,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-alchemy_lamp-immortal.png",
+      "sha256": "c5382d556f7143b72e934737367dfb23b4fbc30adfc887d9884daef369643da5",
+      "bytes": 63163,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-alchemy_lamp-rare.png",
+      "sha256": "c9d268296b9bde7de60f32e79685f3c774a848fe94eb7aa4d2e87006db710f6f",
+      "bytes": 61656,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-alchemy_lamp-spirit.png",
+      "sha256": "8e42d189ec525bfdeac7e101ddea8b6161d78381ed1730c794b0c42776b98e7f",
+      "bytes": 61785,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-boots-standard-common.png",
+      "sha256": "6ae8aed6d60515d9a141147a6d96b0eb1f48b651d317ee0914a81c8125f66265",
+      "bytes": 57755,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-boots-standard-epic.png",
+      "sha256": "a6da04ab68164054ea7bf0f15012ee6ae1bcc95abdfa728e00698df6b41b17e8",
+      "bytes": 60522,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-boots-standard-good.png",
+      "sha256": "eeceac0488c53f357951e1b8aa76387bee83f64cc5739155a1b9ab6542efd733",
+      "bytes": 60377,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-boots-standard-immortal.png",
+      "sha256": "dfa8375af405e5a4e1bc3076f7fa6af720c8591a1df14f3800a17cede5c747e1",
+      "bytes": 60787,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-boots-standard-rare.png",
+      "sha256": "817b8bc34a59d35876d920c40bad36bb466b00a19d17dab40d6f303e20f85e09",
+      "bytes": 58356,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-boots-standard-spirit.png",
+      "sha256": "f39e351daed650989f5c94766bd763c4e89a9bb764ebe7c3d2377d4363ffa2a7",
+      "bytes": 58759,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-boss_ticket-rare.png",
+      "sha256": "fca50528ce30b2c7a25a599bc15edef2dfe52fd694ed34045e16ffb25c30c3f3",
+      "bytes": 57646,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-cloud_ring-common.png",
+      "sha256": "34261583f1c94ae38cde06155854deb646926376187bbdff9eba236866540a89",
+      "bytes": 58551,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-cloud_ring-epic.png",
+      "sha256": "a9eb06b94ea3b48a480c8fbe93dae6715555f920de92a3b2788f61ac68430db4",
+      "bytes": 61768,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-cloud_ring-good.png",
+      "sha256": "7a73842a610ad1eac429275c6538902591d4bdfe5fa7b77b38ccd1fa33841aa1",
+      "bytes": 61305,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-cloud_ring-immortal.png",
+      "sha256": "7b890d66a013db230e76956d6857a21ab36e7f6b5de9073ef72c75d32440c4c6",
+      "bytes": 61141,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-cloud_ring-rare.png",
+      "sha256": "134058436b8e42c0cb915ecf139cd6f4d0883b53dff33509f132cba90f405ae2",
+      "bytes": 59405,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-cloud_ring-spirit.png",
+      "sha256": "98f08730af9f99fca7994d8064189af766ef7e418aeac93a3f2576c71aa69f59",
+      "bytes": 59450,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-crafting-accessory-good.png",
+      "sha256": "35f4c8e0c46697aef2227c6989e3888cf8eca99726d1a8809ee78e759cdcd08c",
+      "bytes": 60767,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-crafting-gear-common.png",
+      "sha256": "5b4197e88508919dbbbf8a856d09aff11a1a7ee6ee0cd24b601bca6116dad45e",
+      "bytes": 62035,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-earring-standard-common.png",
+      "sha256": "37f16f96d3ddecfa5b22e50602fb12e159d282cfe7c9ddad7dd82a86cd14e18c",
+      "bytes": 55564,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-earring-standard-epic.png",
+      "sha256": "07822cac2d88fb55d95d382b362ed8c0e028781454c9743b1956988562cc332e",
+      "bytes": 60039,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-earring-standard-good.png",
+      "sha256": "022ad3a055e7308f0907a5f12a3b4fd6613f273afa37e1c330d80c53b6110217",
+      "bytes": 59380,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-earring-standard-immortal.png",
+      "sha256": "701cd7fd48df342747a255812de8ddf3de493d1ce5cb253d6bfc9777d8b88206",
+      "bytes": 59774,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-earring-standard-rare.png",
+      "sha256": "c13e39406bf9ceff436bd3eb37de4a054c59bad340b782a5f649f1f833971608",
+      "bytes": 56824,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-earring-standard-spirit.png",
+      "sha256": "f32e7c1dd65703dc89afa7aea9f79c09dffd6a6e284d2cf2c19594e7e7e17dac",
+      "bytes": 58315,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-gloves-standard-common.png",
+      "sha256": "22c42202dd610707932956441bedae1f0b98f9846131efaccc8d7a8e8ff5afe7",
+      "bytes": 58192,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-gloves-standard-epic.png",
+      "sha256": "a0b790c4feb0fb69855c0e1313a3f3a35d08d40ec053fd5009ca143ba96452fa",
+      "bytes": 62030,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-gloves-standard-good.png",
+      "sha256": "8ce22feccd079456853380c177a7b0878423058ddc1d395ec9d4f8ef891ce34c",
+      "bytes": 61659,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-gloves-standard-immortal.png",
+      "sha256": "1cbeb7bb28fe1e49c29a9287bcdb497d22d7ae08cf8a9e1d8dca650d163b7d99",
+      "bytes": 62110,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-gloves-standard-rare.png",
+      "sha256": "a8d9b1840ee975ff590ff39f3e4fb8d727a8ffcd69b45d70f6b8163ab33c0eba",
+      "bytes": 59306,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-gloves-standard-spirit.png",
+      "sha256": "38f2a42b76a2a64aa694e18db9ce11ebef7dad142342d99ad2eedc45a26984be",
+      "bytes": 61046,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-gold_exchange-good.png",
+      "sha256": "e9277f9ad3ca12d94f1560222b7bb788b966c8190ad7791ca8d2d1086afb0de4",
+      "bytes": 61900,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-guard_robe-common.png",
+      "sha256": "57422c68c1f9d931b31568ff37baec92fb414ece667b9c901d241055fa7940a1",
+      "bytes": 64979,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-guard_robe-epic.png",
+      "sha256": "1be82ad49f7cf2458af579a5a53d77d5af4e2c2050ba57548f82d2983b0eed85",
+      "bytes": 67561,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-guard_robe-good.png",
+      "sha256": "96e4bb2ef74dcb5b752e123c3685d0c32f7c75428bb5a02f3f0af34a790bfc63",
+      "bytes": 67296,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-guard_robe-immortal.png",
+      "sha256": "d041f5fd59741cd0b77694fa84772286fa9a0899a81e4dfdd893b5ecd9304792",
+      "bytes": 67470,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-guard_robe-rare.png",
+      "sha256": "54f2fa0b534116b3a35cbdf75cc634150756341e974a33fa15c115dfb199a9da",
+      "bytes": 65450,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-guard_robe-spirit.png",
+      "sha256": "7b36fcd52211f8b7ae5300dbe63bb93a6073fad04d20c2a49636c03648124e01",
+      "bytes": 66256,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-helmet-standard-common.png",
+      "sha256": "444d34909df9c1daba28d38bdf8d11efb06117f3f0408c4da8472045d62f87aa",
+      "bytes": 58119,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-helmet-standard-epic.png",
+      "sha256": "283a5ec1071940d1514889fc656ed7918eb088c00751073e81d407452a80180d",
+      "bytes": 61444,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-helmet-standard-good.png",
+      "sha256": "04394370fdefa9567071f150485cc5aed34d99a7ba8efee5345cb16eaa85e67f",
+      "bytes": 61138,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-helmet-standard-immortal.png",
+      "sha256": "6d298ee809a0923043ec27e11055973cf61b66dfcb24fc756fe6f10d85fa1faa",
+      "bytes": 61661,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-helmet-standard-rare.png",
+      "sha256": "3a64ca9bac63005809180186190afa32403d9a48d5653b44215fb0cf91dbdf95",
+      "bytes": 59110,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-helmet-standard-spirit.png",
+      "sha256": "4a2c7e3f3c369be7528c1b1fcb9f76384ef136ab40344d9ce0e5fb3cc902350e",
+      "bytes": 59567,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-ice_resistance-epic-epic.png",
+      "sha256": "9788839301b893bb905923c11a8d69b2c9c359fa636fc5bc02652521b827f5c0",
+      "bytes": 65046,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-ice_resistance-good-good.png",
+      "sha256": "a7469d2e723e0138300c515f4e196732e03962aa9616273347b309947a770abe",
+      "bytes": 58657,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-jade_sword_sheath-common.png",
+      "sha256": "57df55a42a33e67fbf34dbea0b606c8f8e69a397fe7f12975a94d70f319e01b1",
+      "bytes": 56988,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-jade_sword_sheath-epic.png",
+      "sha256": "15940e4b1f316551d28c6a94f7fcc746dd6adb0e1a3a02d0f2503044f5ce8cb4",
+      "bytes": 59993,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-jade_sword_sheath-good.png",
+      "sha256": "86ad3f8c20d666b94ba8debc9f1c2b1fcff7d9f9e887d6b0a7e2312f32fc6124",
+      "bytes": 59566,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-jade_sword_sheath-immortal.png",
+      "sha256": "c4913fff2b38de4c50dea9f833b346c105fec60094af78845e4a1937a4cd0a93",
+      "bytes": 60035,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-jade_sword_sheath-rare.png",
+      "sha256": "0efa1b06d2ca7c8c4ab82eb6b8670d14f399a5110ae75abd105093230829ec79",
+      "bytes": 57446,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-moon_robe-common.png",
+      "sha256": "365ee3967c411430840226638d655d1b2f346fcf6c8ecf50fb6a050bb53f8a0e",
+      "bytes": 66946,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-moon_robe-epic.png",
+      "sha256": "73be753abdae0afe343a5ecc883794ca0f36fb9c97254151ea3d16ddf81a1156",
+      "bytes": 69339,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-moon_robe-good.png",
+      "sha256": "a5d8baacf90604ff7538844b0e9e61987d7e5b45e6824f52e53ba3e5a28b3b57",
+      "bytes": 69215,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-moon_robe-immortal.png",
+      "sha256": "12be59ee318ab7cb3891c6eb82d4d15b9439cf3c1ae0193be35ca0079cb2d9bf",
+      "bytes": 69726,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-moon_robe-rare.png",
+      "sha256": "0f7f8445f84645c90dbaae36938c917aaa739e047450142af0ae0c3efce55ee8",
+      "bytes": 67155,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-necklace-standard-common.png",
+      "sha256": "c3f0b51d8e4e3410001930e6f046220573e32709e26d92724b6b19838d27e196",
+      "bytes": 51090,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-necklace-standard-epic.png",
+      "sha256": "47cfa9f1ec9010773eb633b7c3e566282ec93febe46fa1aeab0586df50f67c76",
+      "bytes": 54816,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-necklace-standard-good.png",
+      "sha256": "8aefefdde822c8fec29e5ef59c5ba1ec91bfc19e2b7158381b79db0c95379653",
+      "bytes": 54323,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-necklace-standard-immortal.png",
+      "sha256": "015809cbddb842219edd7dcb727d544907beb96f5038cb5578bb706b7c9701ce",
+      "bytes": 54695,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-necklace-standard-rare.png",
+      "sha256": "64431e57f50183e46f398f03d518ef48ec6be8c294c998481372776311fe16fb",
+      "bytes": 52094,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-necklace-standard-spirit.png",
+      "sha256": "93bc9a836fbd3f9270993572b006d12d3d78fbafc157fc2bad6fea889be90035",
+      "bytes": 52055,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-ningmai_sand-spirit.png",
+      "sha256": "fc83bf9290cf691faa373b3d76f5cf6b889c90205ddea32f26154e2c804f2e57",
+      "bytes": 58729,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-star_fan-common.png",
+      "sha256": "5b3dcbf2927109d3b1080ea7dc1044ba32ccda89860aa7d3ca69c74103b2b15a",
+      "bytes": 62620,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-star_fan-epic.png",
+      "sha256": "867cc5edd037a2bc64e64b6cfca1d7b76cb1a9ce827cc3d42744618a523fe580",
+      "bytes": 65574,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-star_fan-good.png",
+      "sha256": "7fce9a40bc5a871da2f5f217008961671e10e22a7c222bae67298b1a29ffef6d",
+      "bytes": 65193,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-star_fan-immortal.png",
+      "sha256": "3a98d52c14d64f1d691a2696a6cc8e0af0cf3f0bf17d420d6b97f69b2807889d",
+      "bytes": 65409,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-star_fan-rare.png",
+      "sha256": "97762d9a4a747953a1ce026bdd24ec7c7d3d9206ad81727b8581897c7c4e7c48",
+      "bytes": 63312,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-sword_edge-common.png",
+      "sha256": "0ea935e478f07bae6f38fc203793d5bf59382f6b54a1e7de9bf243524f43081f",
+      "bytes": 47663,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-sword_edge-epic.png",
+      "sha256": "bdde08655737264a683f899c384cc128faa882642f290c8bd448bfdd2622392d",
+      "bytes": 51351,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-sword_edge-good.png",
+      "sha256": "6cfb8372ba24fb7576d3e67d995696afd0bb14991913dca1ad63c8fca0a31c98",
+      "bytes": 51267,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-sword_edge-immortal.png",
+      "sha256": "5f1f2780aaf5080c6511f4a8fb372e4f6dd5aec91766140e45f7e83f3194ce9b",
+      "bytes": 51615,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-sword_edge-rare.png",
+      "sha256": "83f19cd9776ac6ccc814d26f8926264ea94337a56ad463c96f3e6416cee20014",
+      "bytes": 48591,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-sword_edge-spirit.png",
+      "sha256": "dfaa71357f737295ea93a02f9304d6eb0a90681d331f22091b24a56129d19e5a",
+      "bytes": 48597,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-sword_sheath-common.png",
+      "sha256": "c6ab95840b962db934a681cf58b266275739787562f18b6b073388f3a19d6a7f",
+      "bytes": 57219,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-sword_sheath-epic.png",
+      "sha256": "9379ddb698474b4416a23c0774410ec601b46659c6dba4e39c9c658bf0301fb5",
+      "bytes": 59991,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-sword_sheath-good.png",
+      "sha256": "e699c6f61fc5a4160683945c42ba131b4c39575a755524deb0f4ee2e0ab7f685",
+      "bytes": 59723,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-sword_sheath-immortal.png",
+      "sha256": "97784d41c25a64a63f0062aa1179def046194c4f0099f238f9c1e72db1667e19",
+      "bytes": 59679,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-sword_sheath-rare.png",
+      "sha256": "f76ef370ee6ce674628dc866ad16aeda6279c79864aea9e5077cda531dc5dcb9",
+      "bytes": 57777,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-sword_sheath-spirit.png",
+      "sha256": "20b438cd70515d50f3382e588561369a415d268017540b6659075dcec023611e",
+      "bytes": 57237,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-talisman_fan-common.png",
+      "sha256": "2e10e7646a2e3a4646b4de87ffef8444c6388e9c526eacaddbb907dcd253672a",
+      "bytes": 57808,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-talisman_fan-epic.png",
+      "sha256": "b5a9c2a117f9f1d3e23878730b3348e6165a41e53c70fa560c07720269e8341b",
+      "bytes": 61117,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-talisman_fan-good.png",
+      "sha256": "27feb21e5754a960a800d8ee112a27bd93bdc0bd52af21bab9c8587e3658754c",
+      "bytes": 60734,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-talisman_fan-immortal.png",
+      "sha256": "6e0b2bea59069b55d28df77793f26ee0926190a9781f5207106a4b18aeef2f12",
+      "bytes": 61059,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-talisman_fan-rare.png",
+      "sha256": "b11bec2c9d31dec72ccd84c1ea4a91e372591d296f8063a4690bfca534443fdf",
+      "bytes": 58655,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-talisman_fan-spirit.png",
+      "sha256": "567f62b7c56b82dca5226048658f6a5abc52e58647dc5ae8f24098b9ad38b7b8",
+      "bytes": 59429,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-talisman_seal-common.png",
+      "sha256": "12f16c74d0161564096e09dbcec3ef984e0968c13f3d68cc61430ca0ec41307b",
+      "bytes": 56876,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-talisman_seal-epic.png",
+      "sha256": "addef214ba1de8ba1e5f2cccbdbeb8de616d2c3600c62618aecebcebb87a1232",
+      "bytes": 59578,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-talisman_seal-good.png",
+      "sha256": "4b66bc1fcec2c54bb07da32d5ed9fbd0175c0f321d734cc156935a93692e7061",
+      "bytes": 59328,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-talisman_seal-immortal.png",
+      "sha256": "7068c5a7b1609a6b3be2bea4d67f96fe695df66afd4995884a9d1b1d164fa253",
+      "bytes": 59474,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-talisman_seal-rare.png",
+      "sha256": "d99a1c6990b8ccb260d03446c3d4f8a92eaf557a2c7ed6f4e3bb7581a21563ba",
+      "bytes": 57432,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-talisman_seal-spirit.png",
+      "sha256": "aa01534b5fb55ba81548ecfc9917f1874199f9dd178c594721225f0e0e25e016",
+      "bytes": 57659,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-wind_bracer-common.png",
+      "sha256": "f4a3aefcdaa3cef9aedd10474198c4c543c237f7a4154f3b06926b4055d2448c",
+      "bytes": 59363,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-wind_bracer-epic.png",
+      "sha256": "c0217cffe58e6f635b4a00a5341a230505d9365c47edd93d7d1f4488975586ea",
+      "bytes": 62512,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-wind_bracer-good.png",
+      "sha256": "0df51fc313c4989085fbae482516eccb692b9b2ffa893eca452d7f83b9296ed0",
+      "bytes": 62233,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-wind_bracer-immortal.png",
+      "sha256": "efe099a3ef4e3b6acb1c95ba6bf2328fb7c22b6ba176116b074e1d137e21fec8",
+      "bytes": 62695,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-wind_bracer-rare.png",
+      "sha256": "bfe36e62c78a8b185fb72447ab68ec680436d60c08055c0bf7506c4d78855bb8",
+      "bytes": 59950,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_early-wind_bracer-spirit.png",
+      "sha256": "520e76ba8b0b408140e08d47f1a2e14d6b66ece5300f99e5261f91536e7ca3b4",
+      "bytes": 60746,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-alchemist-sub_weapon-standard-common.png",
+      "sha256": "735360a018cddf6c73a83e775d10ef2ab7e27077c992952b1055f0d6911b6efd",
+      "bytes": 63915,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-alchemist-sub_weapon-standard-epic.png",
+      "sha256": "3ed10e2d3a872fe79f6fbb53d8ea2069c312536a931beb7e404cfe022de7b57e",
+      "bytes": 66115,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-alchemist-sub_weapon-standard-good.png",
+      "sha256": "2ab9ab4077edb30accc86f2a96656a31efb9da6f02326491c188c180a3ad3d8f",
+      "bytes": 65969,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-alchemist-sub_weapon-standard-immortal.png",
+      "sha256": "14853b3645efef949f53a82c53c239d91cd400ac8c10f0a1cc8063d3dbdb5d3a",
+      "bytes": 65496,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-alchemist-sub_weapon-standard-rare.png",
+      "sha256": "129c49eaa0df6ded51e6ac1667d4f9f8b622b60ed5505cc7637aaf149b2d328f",
+      "bytes": 64434,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-alchemist-sub_weapon-standard-spirit.png",
+      "sha256": "ed0084125732ccc4c2561552c4b94ed73bd7c90b23f14ea0ab414f0f9e5219c3",
+      "bytes": 63121,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-alchemy-common.png",
+      "sha256": "193d3db6302ccc0c726d95b4d6335b3d53a18f9e7b9a19828f0c7da29da78da8",
+      "bytes": 66572,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-alchemy-epic.png",
+      "sha256": "bfe71741022316c60891c26c57896f4e45afac23567b5f7e410ee237254a85bd",
+      "bytes": 67970,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-alchemy-good.png",
+      "sha256": "343fb864fbff7c2e2c8dbb82ae763405ef744505e94518a17b52e3324d8e36db",
+      "bytes": 67869,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-alchemy-immortal.png",
+      "sha256": "e0dc1a6e5771a72399f23c3cdaf0060b4d217ea9b25d0fd8764b078057ba036d",
+      "bytes": 67932,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-alchemy-rare.png",
+      "sha256": "b269294974dd4dcac968e80b48a26bdcf8a1b52120470580b126acd7d733b06c",
+      "bytes": 66407,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-alchemy-spirit.png",
+      "sha256": "917da25f2b018a1ae5c4baafed91f390a24c601010bb360da9f013170c340164",
+      "bytes": 65921,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-boots-standard-common.png",
+      "sha256": "80076315593a4eabfbf48a5e63cbd709616bec6691e0709f52058a6bfc31a8e2",
+      "bytes": 66772,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-boots-standard-epic.png",
+      "sha256": "2d5fee7f7b321e76c672f21692e4f9d1f0a1071714d8428a67c35ade17273ae0",
+      "bytes": 68298,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-boots-standard-good.png",
+      "sha256": "68c6d944fb0e5b40804212f036b86d896097a9bce50d5b47c1c53bc56c8332b2",
+      "bytes": 68348,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-boots-standard-immortal.png",
+      "sha256": "2373f8c04a9899b6ac016ea9394451dae9700d2e5a3807becaa9a4f766edcbbd",
+      "bytes": 68257,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-boots-standard-rare.png",
+      "sha256": "28972986257e3b0efb07a83d1c8cf3ba832a49c7a57bc8ef4d1ff7cdfef0e6c0",
+      "bytes": 66719,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-boots-standard-spirit.png",
+      "sha256": "f17240e72a6c0feb261b4e0f00d3cdd4cae90b8c36697aea45bb7dff175d1f50",
+      "bytes": 66380,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-boss_ticket-rare.png",
+      "sha256": "35e6d9627585743d7adcc52e6a0128a219ca309da44c1e00d93131f2683b89f6",
+      "bytes": 71404,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-bracer-standard-common.png",
+      "sha256": "2fa49dabb24af42633b4989585ad9bc25066395715002bfac7e4f671b3f804ff",
+      "bytes": 60489,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-bracer-standard-epic.png",
+      "sha256": "6c43307aff7db25b306746a9952e125d7018189d4f00c1d28698378a8f5d5c2a",
+      "bytes": 62757,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-bracer-standard-good.png",
+      "sha256": "cbdf15c15618de3049b7733467a40efa5f517a415c6098488eb1383cb68c5714",
+      "bytes": 62754,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-bracer-standard-immortal.png",
+      "sha256": "e27b83b737a052701c814e6301a0136e9348c4fc2c44a13a3497cf92065677f8",
+      "bytes": 62717,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-bracer-standard-rare.png",
+      "sha256": "ea863ceccd23c0690f8194a83686eadbcaf4c2f7922e017fd0e4361525775356",
+      "bytes": 60794,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-bracer-standard-spirit.png",
+      "sha256": "0aa4da5a68d3c9db9d853df3220c6650a46279ac70fd5ebe280393ded09e2327",
+      "bytes": 59994,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-clothes-standard-common.png",
+      "sha256": "a125f8aa1487aaf8d8baedd639d14d3415941593d399a024c08106efe17bb5b1",
+      "bytes": 65572,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-clothes-standard-epic.png",
+      "sha256": "1d32750f40e6802f4f8a2f425a66e4206d7697e276ab27e17fdcafb54c5785df",
+      "bytes": 67434,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-clothes-standard-good.png",
+      "sha256": "fdf52e96bd206719d703b59326ba902022843efa4e29c66c7aab87699b94735a",
+      "bytes": 67199,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-clothes-standard-immortal.png",
+      "sha256": "c262fbe4074e4191b25e1fbef9612b77153b084aa934a47e3f329bf020548abb",
+      "bytes": 67621,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-clothes-standard-rare.png",
+      "sha256": "c304e0d3901bd9867d55c14bf7c7f8f4485b878393c81cd223784f0a10d3aec6",
+      "bytes": 65683,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-clothes-standard-spirit.png",
+      "sha256": "a0512142c6424939154daf6eee1caab98a22c9aab155903496c99898a7d91f58",
+      "bytes": 66255,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-crafting-accessory-rare.png",
+      "sha256": "52eb0141cffb7c2859fa46dfc80f68b178f801fe0ec0e35660df837521b68ec5",
+      "bytes": 67291,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-crafting-gear-good.png",
+      "sha256": "1dbeadb05fc1c10f68257705811492604297d6b2580fbf2f6e42f511b19ecec7",
+      "bytes": 62133,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-earring-standard-common.png",
+      "sha256": "6e9b12a22fc6bd76bf134714909345dc0fce1a21bb8308266663fa67e866f6ee",
+      "bytes": 52718,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-earring-standard-epic.png",
+      "sha256": "6c331d09c21d97d764c832b2404d03dc27a5a1a94dc0a09bc65b38386f8680a9",
+      "bytes": 55902,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-earring-standard-good.png",
+      "sha256": "1fc06425266121565c05055e2f246405f596794a909d95f279b70b5f55d654fd",
+      "bytes": 55657,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-earring-standard-immortal.png",
+      "sha256": "b3d3780917a834ecaf9cb30785bf590db1bbaffdb55a478af31b1010348930c6",
+      "bytes": 54940,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-earring-standard-rare.png",
+      "sha256": "fb6f0db83eaf4c00217d3de342e5aad55af5a459cc8eb3acd96377a947a6fa7a",
+      "bytes": 53693,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-earring-standard-spirit.png",
+      "sha256": "c3c554ccd44537b9d0b921dba194a8b1cd081539e33a1ad24347a3a305c6c0ac",
+      "bytes": 52247,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-fire_armor-epic.png",
+      "sha256": "2db5ba335d7dab4f4cddc50752169eb97a4742fad8133f66a3db75603a48fda4",
+      "bytes": 70227,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-fire_armor-good.png",
+      "sha256": "9d960fb8ef77e2bfab7bcea6d4b0c95fdbdbdb120462a96b9d307b202f17251c",
+      "bytes": 70320,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-fire_armor-immortal.png",
+      "sha256": "0febb197849febac493b04867dff9f71f1cd6933091298eaae7eb3ffdc6251af",
+      "bytes": 70221,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-fire_armor-rare.png",
+      "sha256": "8aa0e07a67b4aa99a63d1f3ebeea223c3d5c955fbdd957713b61abbbd195e7a7",
+      "bytes": 68817,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-fire_armor-spirit.png",
+      "sha256": "4298a5566e1345e6fe10d717f11164549d598a749dabc3b13ddee2d66f9fc068",
+      "bytes": 68224,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-fire_resistance-good-good.png",
+      "sha256": "dc96d950873835c5cfa0120e6680196ba3d2755659ca0dc14861f7bb35eb9062",
+      "bytes": 64801,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-fire_resistance-immortal-immortal.png",
+      "sha256": "33f05b5a239da657f4e2fb695e406edac58b55bc02139e1e52375622a1e91833",
+      "bytes": 70559,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-fire_resistance-rare-rare.png",
+      "sha256": "917d8c3347e87f55b47306ddcabbf5ab3bcdf623babb2f23f42f618667cf6b3f",
+      "bytes": 63643,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-gloves-standard-common.png",
+      "sha256": "91a69d9428341c5a12b859c06bab28a77d80fb6a2e78bbf40e294b9bfa1d66f5",
+      "bytes": 65593,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-gloves-standard-epic.png",
+      "sha256": "af17346d2b76a7b45d16aed55e89b2f09b13ca20f4c9086959f73d7ca178a27b",
+      "bytes": 66894,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-gloves-standard-good.png",
+      "sha256": "8da01141de099fff946da993ba1e6164db0b6b185bbeb675591889e1f9da6baf",
+      "bytes": 66881,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-gloves-standard-immortal.png",
+      "sha256": "8c5aa2cd3ad73c31a760ebea1b27af38bc6f3229df122feecfc82dbbf858ba2f",
+      "bytes": 66825,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-gloves-standard-rare.png",
+      "sha256": "8fd1e8954086de0fb3e2cfce5e8bbbab2ebe7cef1a472259d967f1a53c5a658a",
+      "bytes": 65437,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-gloves-standard-spirit.png",
+      "sha256": "f4fcb38ecd6115ee059651cb1e2f7a4487e14dc689d4fb4f920deca03932d0a3",
+      "bytes": 64206,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-gold_exchange-epic.png",
+      "sha256": "ad94f344e8a7619597a75ba19c8744d0c33fa6d01166bd47cee297648840f3fb",
+      "bytes": 63824,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-helmet-standard-common.png",
+      "sha256": "cc3ebcaf1259f7270cfc8c0a7525ace92757740429847997f32145507fb28815",
+      "bytes": 65587,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-helmet-standard-epic.png",
+      "sha256": "626287cdba3279df9b9e5257d2e14af5929cf6e56cd9336d79864e386b4e148b",
+      "bytes": 67994,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-helmet-standard-good.png",
+      "sha256": "77dc761192e0e18df099c492a60aa1438487938fa7d171471f3bb7032b78bc14",
+      "bytes": 67631,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-helmet-standard-immortal.png",
+      "sha256": "ab9aaf097a07375b182a2f073a97fe34e74c11b1e67bff2ce80496fdfb326ad2",
+      "bytes": 67201,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-helmet-standard-rare.png",
+      "sha256": "6eb38ae6c4839fb9e316295724e0bb0189546370684f5f737584fec25b6c744e",
+      "bytes": 66283,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-helmet-standard-spirit.png",
+      "sha256": "ca06d8df51cf9dd4e77610c91e057d63c2b4b9a2a91998b5fca24d83d2ae6916",
+      "bytes": 65173,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-necklace-standard-common.png",
+      "sha256": "f564feae4459a34cf5a7c4b185286e8c0b69ba8d95d0860f2c6c773a228dccc4",
+      "bytes": 62653,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-necklace-standard-epic.png",
+      "sha256": "5e4f94b4e8eb883e3ca77e9d4bafe76526c70601261c4e41a3daffe10799be97",
+      "bytes": 64744,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-necklace-standard-good.png",
+      "sha256": "d76d668a833d900f7e4296419f7e25a65905347dfcf4731676f63ef42b1ed901",
+      "bytes": 64700,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-necklace-standard-immortal.png",
+      "sha256": "d29547f20dca5051378ea3a748f21dd2f94b273f9ea800543535295eba64c330",
+      "bytes": 64542,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-necklace-standard-rare.png",
+      "sha256": "24e03116374742fbb81e060ebc6ec70b966c731727e5a788ba7d899f1c44d829",
+      "bytes": 62892,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-necklace-standard-spirit.png",
+      "sha256": "dab83e9bde1c547f70332ca1edf213a57eddc375b250333e609827e1dc3b0c15",
+      "bytes": 61565,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-ring-common.png",
+      "sha256": "9982da6d4afd28c2857c3e3d486c6a95574dd1c9b2a15db47434152dcb903573",
+      "bytes": 60813,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-ring-epic.png",
+      "sha256": "17f327dacf782adb5bbe3875a9fa8f17769e92460374267a4aa2b10ff6e7762c",
+      "bytes": 62758,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-ring-good.png",
+      "sha256": "e202f8c1bf6ee6ff95a8114f2dd6a1a6dc2031f736c4fa0c05acf8707ef66125",
+      "bytes": 62728,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-ring-immortal.png",
+      "sha256": "cbc1aa91226b751da9fd3b4dc3b714c50b475b05cc3f8c60ef38a757b75d2d76",
+      "bytes": 62493,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-ring-rare.png",
+      "sha256": "49866685ae8086e4f108d5b460ec80d9f4c24d55712bf3c1ec9bde1b96a35f5a",
+      "bytes": 61084,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-ring-spirit.png",
+      "sha256": "cc5a22c3d034920a6869507c38623c16b5c826dda7a252bfc468f24cedbcaeb3",
+      "bytes": 59844,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-sword-common.png",
+      "sha256": "dbc52f9a981669a5e25ed837a03a552d16fd22ef01a61542c554794b6a27262b",
+      "bytes": 52781,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-sword-epic.png",
+      "sha256": "138716bbbbe83a16cb7a8dfcc394e1d9a572c2ce5dc10800072fdab8979d6b9e",
+      "bytes": 55818,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-sword-good.png",
+      "sha256": "1eeeb5c16dcb2679e30a3e68f8d376f151074168dd7165dbb745a1c7c4b229ce",
+      "bytes": 55744,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-sword-immortal.png",
+      "sha256": "aa7ac6457177c20574dea62dbf7a3a76b3b14b612c8fb5a8004b70b3b26314ee",
+      "bytes": 55460,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-sword-rare.png",
+      "sha256": "3c249511cd4810c9744183c6315effce1495ade424f2b6c90b01d89f3631f41f",
+      "bytes": 53629,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-sword-spirit.png",
+      "sha256": "6f94d7f3f18618e9d73535717462cf0e325afc5b29eef1f4f053923b5957c2c1",
+      "bytes": 52316,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-sword-sub_weapon-standard-common.png",
+      "sha256": "64cfd1bf2cdbbf19ece9552e2315c9f1fe27c50227087fb2d9b0bac6ee4bfb2d",
+      "bytes": 56819,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-sword-sub_weapon-standard-epic.png",
+      "sha256": "eab394474d8f08131cbb417c81e6c40a2cba17985ede4ca44cbf608e4d8e1d5f",
+      "bytes": 59119,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-sword-sub_weapon-standard-good.png",
+      "sha256": "5705729555696562e3ea4cce9e9841bd1894ce6a773adbeb483393a40ce8c2f1",
+      "bytes": 59096,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-sword-sub_weapon-standard-immortal.png",
+      "sha256": "64b76068599279bd7f352edd1d7f309095f7e7d41a9df380597e891877e5641f",
+      "bytes": 59186,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-sword-sub_weapon-standard-rare.png",
+      "sha256": "3ecfe6e36e8a3b3eacac7e370d6490c8e8f9c94bb535a341b490978ae6f0794e",
+      "bytes": 57047,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-sword-sub_weapon-standard-spirit.png",
+      "sha256": "3b15fe42b7ebcedab129b2308bfc6c02b3640c0f40ab6cdce2ac3ae14d6710eb",
+      "bytes": 56057,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-talisman-common.png",
+      "sha256": "86f6e6b06b1425a2da62a4caa34a69d2215723919a60ec2dd921db7c35d41b6f",
+      "bytes": 74232,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-talisman-epic.png",
+      "sha256": "ccbd3b01240ade71c165861a2f4a35bc1ca59dd61acf7e0311efc0db7ce715ba",
+      "bytes": 76394,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-talisman-good.png",
+      "sha256": "0653fd4d5baabf7190d66405273941459f776167967fa4d8385af42ad36e3e42",
+      "bytes": 75960,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-talisman-immortal.png",
+      "sha256": "228c73867dc00b5935a88aced3c2de51886114506ac7b3894246a9a770b78d54",
+      "bytes": 75171,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-talisman-rare.png",
+      "sha256": "d3a6a92fd0d274f6f5eee9de431bb78c894fa4a2a0cd30a760e1698381767228",
+      "bytes": 74534,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-talisman-spirit.png",
+      "sha256": "7aadb5cf3a19a427b1d69fc9e8b403a00dbc371eec7f6ca13ea2da0fb614f8bb",
+      "bytes": 75131,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-talisman-sub_weapon-standard-common.png",
+      "sha256": "35312210ef9a280420f3fc1f192b1370d5692c8413d10f8ae1c429f37257993a",
+      "bytes": 72917,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-talisman-sub_weapon-standard-epic.png",
+      "sha256": "23e3688f1ca0f0e4f1c2bc70d3617abc6fd6256875bc9a821497efefb7341faf",
+      "bytes": 74121,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-talisman-sub_weapon-standard-good.png",
+      "sha256": "76f48c054489c9ea3fb1fa919b06ec89b3b03bd58e8eb84b8aec11608c221327",
+      "bytes": 74154,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-talisman-sub_weapon-standard-immortal.png",
+      "sha256": "25383dbcbf9f233414b7b83d4e811d84498f5a303d580a9965c3b1d791975bcd",
+      "bytes": 74117,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-talisman-sub_weapon-standard-rare.png",
+      "sha256": "e4abd66ea285048d6c826d97e28af7ebe6076d5636b5646a9a91ba18a6ef39ec",
+      "bytes": 72745,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_late-talisman-sub_weapon-standard-spirit.png",
+      "sha256": "61190b0beacacd1beb1d5ee8c3e97570919a59c1a5873a975674b57d8d7ceb48",
+      "bytes": 72816,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-alchemist-sub_weapon-standard-common.png",
+      "sha256": "2ffb54e661869b75f3e6bb24a2d0a8d4beb4873ea834fc46d9332bb0b7021ae4",
+      "bytes": 62661,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-alchemist-sub_weapon-standard-epic.png",
+      "sha256": "b075cd8f81f85cb0f9f5bbaacbb1e9fdd93419827156e834e46596ebefb9ef9b",
+      "bytes": 64900,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-alchemist-sub_weapon-standard-good.png",
+      "sha256": "5198fa573f8d488fc6d82c66e3cc73d74836671bc750ea19260f708bfc0a4dc3",
+      "bytes": 64701,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-alchemist-sub_weapon-standard-immortal.png",
+      "sha256": "3377bcb086522abcfcafd68a5be255aeca180271eed15fc4dd729596b467b724",
+      "bytes": 64701,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-alchemist-sub_weapon-standard-rare.png",
+      "sha256": "e36cb277618ab71a50ab9dfab635f0790adb61ae96ebf1ce4fb061355ca1d7ce",
+      "bytes": 63073,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-alchemist-sub_weapon-standard-spirit.png",
+      "sha256": "935916be36b51fc604369a2ac937066196b88ac2d82e878ecc4e07492ac47a34",
+      "bytes": 62842,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-alchemy-common.png",
+      "sha256": "92ba8e6cd8c0d6b25112c0186f2561c5c67e92108accdb0fce1edf6ae3263700",
+      "bytes": 61024,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-alchemy-epic.png",
+      "sha256": "2fcff209645b17f0490b84a5623826e1018fdf7f7bb592357123896b0a427ef2",
+      "bytes": 63323,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-alchemy-good.png",
+      "sha256": "8a869f7b822cf57fd25d3b7c83db0493456f172da6a9553d271b9a06156c06a3",
+      "bytes": 62729,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-alchemy-immortal.png",
+      "sha256": "a854ede312147913ea1c65521aa11219196fb7451bcdd52554b189bf85eefc2b",
+      "bytes": 62427,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-alchemy-rare.png",
+      "sha256": "53517238d45f4198bb05f340ca0dbb851ce4cdd7180bdf65a3459937f3951701",
+      "bytes": 61597,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-alchemy-spirit.png",
+      "sha256": "f9d1a7bda283101f9e3b01a1a76daa26dedd6d2f7e9f577d634e65bc549b1003",
+      "bytes": 61605,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-boots-standard-common.png",
+      "sha256": "93d3c910643dd162ee395091009cb8edacd6c88095fa682d9a0fcb651edf4e98",
+      "bytes": 57116,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-boots-standard-epic.png",
+      "sha256": "7c220c09eefce46bd1eeac4c31bb8945072ff2bda3600ef0fcc7e197b19792ba",
+      "bytes": 59591,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-boots-standard-good.png",
+      "sha256": "abdaaf5fd0254794d3eee55c715adcd59053931d4ed5c38967aabf1ca81e50e1",
+      "bytes": 59354,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-boots-standard-immortal.png",
+      "sha256": "fa22e221f7da83a3fa404dc6a27bf8974c3c12cad4db5db05edb2e236716134e",
+      "bytes": 59624,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-boots-standard-rare.png",
+      "sha256": "c6d196afc5fdcc22aa6eec0414da01b5ead33545ac159f6bb6b5f679b6a29eb4",
+      "bytes": 57482,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-boots-standard-spirit.png",
+      "sha256": "f10cbeefe3f620c4c381c99f110693820a068c7b1e16e6f69fa9adf225ec7c70",
+      "bytes": 57197,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-boss_ticket-rare.png",
+      "sha256": "75cecb1d3066ed9d00d19a459f42086f417d491dc51c21eec92720ba8b6d1f4d",
+      "bytes": 58077,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-bracer-standard-common.png",
+      "sha256": "b986f1aff12366016295b97e042e2223ca71dfab313bf04de6b2e2618deb174e",
+      "bytes": 62603,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-bracer-standard-epic.png",
+      "sha256": "2657ff6a42b132eda31cf0997a63abe9902b75fb09239c7a7f26f35988787694",
+      "bytes": 64707,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-bracer-standard-good.png",
+      "sha256": "66d7985fbc8839f72a0798f411641a05006e05f0e8e02f73e41dbaf0f3af63fe",
+      "bytes": 64559,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-bracer-standard-immortal.png",
+      "sha256": "0c995ce76c72e9f3b9d47eb97a9fd8c58664990ff594b23aeab8413ca477d016",
+      "bytes": 64825,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-bracer-standard-rare.png",
+      "sha256": "1293b89c64fd616ee65ea5ea81bc5bebb1bad24ea5edeb353aec7fed07011480",
+      "bytes": 62913,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-bracer-standard-spirit.png",
+      "sha256": "d6fd9e3fc78763839d5460c7be1c3db44b7a79ebda190925e9de6adaff94601d",
+      "bytes": 62404,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-crafting-accessory-rare.png",
+      "sha256": "762ef48e8dc60afef9954afd260a22937bf79359a36159acf90120df96fcf4f0",
+      "bytes": 57649,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-crafting-gear-good.png",
+      "sha256": "f3fd723cd90bbfd5932b3940ab38fb0a5d0fec8ca8728a83cc1ee8843ac865c4",
+      "bytes": 66528,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-earring-standard-common.png",
+      "sha256": "36ed3c15138ef046e1a7e3de706551f64e121eca59e91b95e0cc438f2397cd3b",
+      "bytes": 49994,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-earring-standard-epic.png",
+      "sha256": "957818a6b5ff4037141bcf542b928c9a1fa9e6f438ae3069c6bbbb1dc822d85e",
+      "bytes": 54128,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-earring-standard-good.png",
+      "sha256": "e238b1df7e182c209133d200c33a878efa8dbd53a37f18bc9a342948a57b21de",
+      "bytes": 53617,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-earring-standard-immortal.png",
+      "sha256": "54d491e920ef0218ca807fc26678eee8cdcb780333979854ad666d41ea6cf295",
+      "bytes": 53678,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-earring-standard-rare.png",
+      "sha256": "11a90cc3f09623f508a66afa46f6abfe7275343c61cbd75978bbf9ab8e2e4f05",
+      "bytes": 51415,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-earring-standard-spirit.png",
+      "sha256": "05b0ba633a472d5dbeb9956f6c6d1bc684f4ac9de2fc5a3e8d23d6fe76857b90",
+      "bytes": 51509,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-gloves-standard-common.png",
+      "sha256": "fb69960ba167eb8273de37b02bc88b64c02a3e03d8357861f8c5c59598247fe9",
+      "bytes": 62780,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-gloves-standard-epic.png",
+      "sha256": "ae8ac8c0746e6003b01bfb13a63dd2ecc02e59cb8f9871cf56de887cd81b48e4",
+      "bytes": 64330,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-gloves-standard-good.png",
+      "sha256": "603ec0ddefc8caea9d8bcc7e923f5652015c62eaa3afbb33ca51bd56a6dc9d67",
+      "bytes": 64202,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-gloves-standard-immortal.png",
+      "sha256": "3a6127a08b2a529c4944f323a2bd609f1ed48a7d025b1c880cfe995b8c99ec07",
+      "bytes": 64586,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-gloves-standard-rare.png",
+      "sha256": "4fe17c2b4063cfb88649666056318c98e2a94b7ea7c64a7c3c6e668ab76bea4f",
+      "bytes": 62958,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-gloves-standard-spirit.png",
+      "sha256": "16c1dd6b4bd5775311e9606decf1db512190e3c5f1e2f7fd159f7b88fd6510f6",
+      "bytes": 62620,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-gold_exchange-rare.png",
+      "sha256": "c3bd395f87d66333571e865028fb1131101a1f9f654ba3a3db07f10523841586",
+      "bytes": 57189,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-helmet-standard-common.png",
+      "sha256": "ef54f305ac23220551ad4d2f485400bf0b2eb5af4cd31e730bf284aa79d83b1f",
+      "bytes": 60445,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-helmet-standard-epic.png",
+      "sha256": "cfc2737ea6a975a60fff870abda14626600199942caf3f162cb49c15b2c76467",
+      "bytes": 62947,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-helmet-standard-good.png",
+      "sha256": "645206e0179670e7b01bfa7ec9acf546e967054f4b3eb4d2b92c6b323550275b",
+      "bytes": 62652,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-helmet-standard-immortal.png",
+      "sha256": "5ec12e3e4bd420bf17fc1c2500d810ce3adfd167a9d4ce281c0c1c9750b0e99b",
+      "bytes": 62595,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-helmet-standard-rare.png",
+      "sha256": "2b2f3bc62f9b172a6f759d08541e18caf05def94f1a2a2d856f7624cd46280b0",
+      "bytes": 61077,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-helmet-standard-spirit.png",
+      "sha256": "7ecad957139a2f7044c20065a11647d1d739211b98d4c40b64f86fe02eb9e31e",
+      "bytes": 60873,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-marrow_jade-rare.png",
+      "sha256": "3240cc986af1d687a6be9cdca1febdf6862ef11a60ccad0d0af7d5e94c2e187c",
+      "bytes": 66532,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-necklace-standard-common.png",
+      "sha256": "0b9c615ef85bc21a6715d7ec9d0501f5812c2ec617dd44d717bd70c4ed4b00d5",
+      "bytes": 58803,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-necklace-standard-epic.png",
+      "sha256": "13b41f5d396802e564a7f5c154416b04f0fada709b83a121fc4fe6e251592855",
+      "bytes": 61535,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-necklace-standard-good.png",
+      "sha256": "fb6b9479bafff25d81dccfcf3249e9bf522d3677c8f7828be394ccad91b3e7a3",
+      "bytes": 61153,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-necklace-standard-immortal.png",
+      "sha256": "896f728567785bbf37681060ef9a6c6474af5492e481ee703e6a7398fc38153e",
+      "bytes": 61382,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-necklace-standard-rare.png",
+      "sha256": "cd21d51b3d818b797ac4bc66447095f1ace7ebb2c475508db2173020eeed5917",
+      "bytes": 59381,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-necklace-standard-spirit.png",
+      "sha256": "486869c489e2a739e5a4e8738e12387b9511f61f615eadb2cbe39765319809e9",
+      "bytes": 59078,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-ring-common.png",
+      "sha256": "85e43fadf47d6a79fb15d5e78a87643aeced84ea522be89b2d1d90a0afa5c74c",
+      "bytes": 61587,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-ring-epic.png",
+      "sha256": "d41a4c4b2bc7845c59a50716a7de27776d9555f047aee556ac101f811a185ca0",
+      "bytes": 64236,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-ring-good.png",
+      "sha256": "afc8061abcead7f6f8ae68f10354609dd8a49c212985b7172785637974235141",
+      "bytes": 63207,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-ring-immortal.png",
+      "sha256": "87504143fddc5b9d6894e1ff8eaf8a080c0f9b0d97a0f99086bd5c8e096fffbb",
+      "bytes": 64411,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-ring-rare.png",
+      "sha256": "242347921606dd759d2428a7fd3911ead3a3ee53faeb6d2820985c37f1dfcfc8",
+      "bytes": 61903,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-ring-spirit.png",
+      "sha256": "882a947f2b2fbaac867fdd32a3943546e02de5336fa99896f9a2f1a16b8846cd",
+      "bytes": 63384,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-robe-common.png",
+      "sha256": "b98e6e00bb1f8ab358513a12cc80bf99caa919a55c073f8f5458418f9bccf328",
+      "bytes": 65607,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-robe-epic.png",
+      "sha256": "112bb0f436e2a6280e2bab50a1a8b7bc0e3f22584d1976bf5480a1449ca8d67d",
+      "bytes": 67478,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-robe-good.png",
+      "sha256": "bfa610b9c83986a052fb65b14107b8ee4e37e3df30c12b482ba06bd797777950",
+      "bytes": 67210,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-robe-immortal.png",
+      "sha256": "e203a79a7a702a13d0601bf080dce701e844b3cd9495070818795e8262ee3b14",
+      "bytes": 67654,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-robe-rare.png",
+      "sha256": "cc5a99fd2f8d9a410b987d723a59cdeed12043ae823016a17b3b38d621c1b364",
+      "bytes": 65730,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-robe-spirit.png",
+      "sha256": "a0512142c6424939154daf6eee1caab98a22c9aab155903496c99898a7d91f58",
+      "bytes": 66255,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-sword-common.png",
+      "sha256": "a02d0a3eb5f13830f553b81fea4b8a01449d0a079cca749e006ad8159f86f663",
+      "bytes": 56371,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-sword-epic.png",
+      "sha256": "fdcd0c8abc5ba98fc3fdb5beb6d4daa80827c0de69ebc8c0966edbcddc67c4f9",
+      "bytes": 58665,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-sword-good.png",
+      "sha256": "8bdf5accd4e198894b4a4e00fdbfcf4a8fe90f4d3c48ebf7f787daa890dd3d51",
+      "bytes": 58530,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-sword-immortal.png",
+      "sha256": "f53a68801511380dc19a02cff9eeea859440ded255b00b7a5c60b53736b5b1f9",
+      "bytes": 58968,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-sword-rare.png",
+      "sha256": "ccdd0ce15205a55709a3f6a4873b070b7f58a99941abbffb92b8d66e68094059",
+      "bytes": 56432,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-sword-spirit.png",
+      "sha256": "8d07fee8ef4519ae7a1f49923a5a46016fcba56bb39d322a11d33045f4c5cace",
+      "bytes": 55987,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-sword-sub_weapon-standard-common.png",
+      "sha256": "933cd01ba765f8e0b9390235634e24682e2c05709c518eba747c9604e302f485",
+      "bytes": 58857,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-sword-sub_weapon-standard-epic.png",
+      "sha256": "38a3fd7241068470e3733ca8054b8df4536cec4f168fd7a210ab371e1b7be03f",
+      "bytes": 61083,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-sword-sub_weapon-standard-good.png",
+      "sha256": "a02d054fa0f907f471317f58b4a127399399c7957cdd43ba351c0a8dfa80e000",
+      "bytes": 60799,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-sword-sub_weapon-standard-immortal.png",
+      "sha256": "d99edec590bb973f2b6013d3cda2fa7dbbbd7dd094d256fa323670f22b82b82d",
+      "bytes": 61424,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-sword-sub_weapon-standard-rare.png",
+      "sha256": "8862e04daeba5ea9b456861b512cff030e999a8c0778e32bb65bf58022728574",
+      "bytes": 59002,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-sword-sub_weapon-standard-spirit.png",
+      "sha256": "f09adad0d6d3f6063b7346150a83295c1f149b11db5fc576f823a8e10f8873d4",
+      "bytes": 59070,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-talisman-common.png",
+      "sha256": "2a9d9c9e15dcd1942e575cdc2e8d9c51cc361a687c70b737761ef1e8824b323d",
+      "bytes": 70147,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-talisman-epic.png",
+      "sha256": "2e00e4179237927bd3c7a89ae16624f07bccc49383569ae1ec41da5f4554587f",
+      "bytes": 71755,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-talisman-good.png",
+      "sha256": "385ec5a88a59f68026af920e41d5a4ba470ed43043ce79b7a047bca88d728895",
+      "bytes": 71540,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-talisman-immortal.png",
+      "sha256": "5a2f2a1b790999372006190e9138c8ef36d951f5b069f865caf20c6fbc3bf9d3",
+      "bytes": 72021,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-talisman-rare.png",
+      "sha256": "e4ededd2389f394c27d93aa13545f39bd92bf87d75e647163ceab7583e4f2116",
+      "bytes": 69878,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-talisman-spirit.png",
+      "sha256": "cc7438dddfd5fe508ef5f0c2d98be85971e13e9b779c47602b10a6ddbc27fca0",
+      "bytes": 70199,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-talisman-sub_weapon-standard-common.png",
+      "sha256": "228fb8e5e455fc3a812c8b342fc3062d99578674dc62f059208c59754fa21c29",
+      "bytes": 65946,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-talisman-sub_weapon-standard-epic.png",
+      "sha256": "24e669a4a4527c921adae990718dc55b784db3ebf7099aff803e86ba73af50e4",
+      "bytes": 67597,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-talisman-sub_weapon-standard-good.png",
+      "sha256": "a65231174193642f192841caa939613c2225a43a797158249410026c0ee1a670",
+      "bytes": 67603,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-talisman-sub_weapon-standard-immortal.png",
+      "sha256": "d9d3237e4fd2374d610be51d7a12b070ce365c1bd120c4496055742491acb3bd",
+      "bytes": 67628,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-talisman-sub_weapon-standard-rare.png",
+      "sha256": "1d4be65e0ccc36fc0d58d16956fde945ac27ed2a081ebff0406bac009f8224ec",
+      "bytes": 65956,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "assets/generated/steam-item-zhuji_middle-talisman-sub_weapon-standard-spirit.png",
+      "sha256": "4fbc70433d86d1729cd0f7419ad57588d4318788b0f9b99a238c9ad8dddab8dd",
+      "bytes": 66264,
+      "width": 200,
+      "height": 200
+    }
+  ]
+}
