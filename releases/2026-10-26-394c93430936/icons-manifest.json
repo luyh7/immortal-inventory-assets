@@ -1,0 +1,2583 @@
+{
+  "schema": "steam-itemdef-icons/1",
+  "appid": 5189080,
+  "iconBaseUrl": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/",
+  "schemaSha256": "2114ffe78eb693ee01f0b2b41cc4f7635d93008be7074392dbe24a2f064ba0af",
+  "assets": [
+    {
+      "path": "assets/generated/item-alchemist-common.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-alchemist-common.png",
+      "sha256": "452ef6f36596a4bea2f88a6a49864cf27e897c3c627f3256aa9fd3b1cf622a13",
+      "bytes": 24188,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.alchemist.common"
+      ],
+      "itemdefids": [
+        100161,
+        100175,
+        100189,
+        100203,
+        100224
+      ]
+    },
+    {
+      "path": "assets/generated/item-armor-common.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-armor-common.png",
+      "sha256": "650b3def59d0ceecc9a9527834edff32e50430323e19ca126ce9909f08a9cd66",
+      "bytes": 23777,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.armor.common"
+      ],
+      "itemdefids": [
+        100164,
+        100178,
+        100192,
+        100206,
+        100219
+      ]
+    },
+    {
+      "path": "assets/generated/item-boss_ticket.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-boss_ticket.png",
+      "sha256": "c62e8c920cd773726a8c17275133265305eedc31620323729e3fa4c88e9e2922",
+      "bytes": 22442,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.boss_ticket"
+      ],
+      "itemdefids": [
+        200063
+      ]
+    },
+    {
+      "path": "assets/generated/item-constellation-star_core.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-constellation-star_core.png",
+      "sha256": "90a42e214c356923d07d12b83f59cab4e758f1533660c43dfa014a41f7e8b907",
+      "bytes": 26493,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.constellation.star_core"
+      ],
+      "itemdefids": [
+        200001
+      ]
+    },
+    {
+      "path": "assets/generated/item-constellation-starlight_dust.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-constellation-starlight_dust.png",
+      "sha256": "25f55b69543fa13524e22346b042652db0853eb4f389dfa1c3634a6241ab3100",
+      "bytes": 26832,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.constellation.starlight_dust"
+      ],
+      "itemdefids": [
+        200002
+      ]
+    },
+    {
+      "path": "assets/generated/item-jiedan_early-alchemist-sub_weapon-standard.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-jiedan_early-alchemist-sub_weapon-standard.png",
+      "sha256": "5f69c68b7a8a18120c833f7aaf1edd971a055777528a4b545979f8ee6582ce57",
+      "bytes": 20485,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.jiedan_early.alchemist.sub_weapon.standard"
+      ],
+      "itemdefids": [
+        100001,
+        100015,
+        100029,
+        100043,
+        100057,
+        200095,
+        200096
+      ]
+    },
+    {
+      "path": "assets/generated/item-jiedan_early-alchemy.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-jiedan_early-alchemy.png",
+      "sha256": "a6e37da1dd8137cc46364ece57129ae7d3f550f1659a45b962afe4a140909fdd",
+      "bytes": 18315,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.jiedan_early.alchemy"
+      ],
+      "itemdefids": [
+        100002,
+        100016,
+        100030,
+        100044,
+        100058,
+        200085,
+        200086
+      ]
+    },
+    {
+      "path": "assets/generated/item-jiedan_early-boots-standard.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-jiedan_early-boots-standard.png",
+      "sha256": "2dc64c2cf71a08ce2d6e313bfeb93f6d6e07cf773ca9fdff53e8df503630dd36",
+      "bytes": 20259,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.jiedan_early.boots.standard"
+      ],
+      "itemdefids": [
+        100003,
+        100017,
+        100031,
+        100045,
+        100059,
+        200073,
+        200074
+      ]
+    },
+    {
+      "path": "assets/generated/item-jiedan_early-boss_ticket.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-jiedan_early-boss_ticket.png",
+      "sha256": "652dbd15e9246831d1aca4ac4758c2324672e9641f54edb3c2c542d9e3ecc9ca",
+      "bytes": 18437,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.jiedan_early.boss_ticket"
+      ],
+      "itemdefids": [
+        200061
+      ]
+    },
+    {
+      "path": "assets/generated/item-jiedan_early-bracer-standard.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-jiedan_early-bracer-standard.png",
+      "sha256": "b33862e7906913c2f7274d212e1c7d79dffd3a47ee9212ed7369f738acb7e45e",
+      "bytes": 21642,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.jiedan_early.bracer.standard"
+      ],
+      "itemdefids": [
+        100004,
+        100018,
+        100032,
+        100046,
+        100060,
+        200075,
+        200076
+      ]
+    },
+    {
+      "path": "assets/generated/item-jiedan_early-crafting-accessory.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-jiedan_early-crafting-accessory.png",
+      "sha256": "ea6ff9221bc590683be55257afcbe390e8ad5053f743b1a0eb2cf6aa60829ad6",
+      "bytes": 16239,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.jiedan_early.crafting.accessory"
+      ],
+      "itemdefids": [
+        200004
+      ]
+    },
+    {
+      "path": "assets/generated/item-jiedan_early-crafting-gear.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-jiedan_early-crafting-gear.png",
+      "sha256": "ca83b3f97e0a841ff91fe1b7db1a71c142d5d47576737fe6582304eff41ab315",
+      "bytes": 21704,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.jiedan_early.crafting.gear"
+      ],
+      "itemdefids": [
+        200005
+      ]
+    },
+    {
+      "path": "assets/generated/item-jiedan_early-earring-standard.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-jiedan_early-earring-standard.png",
+      "sha256": "764356ad64f5072b34ae586e99454651442ec690c39871ce463c91dcccb064ff",
+      "bytes": 16241,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.jiedan_early.earring.standard"
+      ],
+      "itemdefids": [
+        100005,
+        100019,
+        100033,
+        100047,
+        100061,
+        200079,
+        200080
+      ]
+    },
+    {
+      "path": "assets/generated/item-jiedan_early-gloves-standard.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-jiedan_early-gloves-standard.png",
+      "sha256": "047542ef3118c279e1e681e991c2b0c49997569f80a0b33bbb8288397210ab59",
+      "bytes": 20794,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.jiedan_early.gloves.standard"
+      ],
+      "itemdefids": [
+        100006,
+        100020,
+        100034,
+        100048,
+        100062,
+        200081,
+        200082
+      ]
+    },
+    {
+      "path": "assets/generated/item-jiedan_early-gold_exchange.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-jiedan_early-gold_exchange.png",
+      "sha256": "e8576c91be4496346e6d18080f9a413264542812e50c069a77cc8d9a65f6c9f7",
+      "bytes": 24359,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.jiedan_early.gold_exchange"
+      ],
+      "itemdefids": [
+        200071
+      ]
+    },
+    {
+      "path": "assets/generated/item-jiedan_early-helmet-standard.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-jiedan_early-helmet-standard.png",
+      "sha256": "24a747c3499f6a162dcf47d892064d681b581ffe8a6dc20042e62ae84e112fa2",
+      "bytes": 18291,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.jiedan_early.helmet.standard"
+      ],
+      "itemdefids": [
+        100007,
+        100021,
+        100035,
+        100049,
+        100063,
+        200083,
+        200084
+      ]
+    },
+    {
+      "path": "assets/generated/item-jiedan_early-necklace-standard.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-jiedan_early-necklace-standard.png",
+      "sha256": "47e940691fbf5e5c90e68b54218a79e51f7ec66d401c0ea2328a64f09ce6be7c",
+      "bytes": 14088,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.jiedan_early.necklace.standard"
+      ],
+      "itemdefids": [
+        100008,
+        100022,
+        100036,
+        100050,
+        100064,
+        200091,
+        200092
+      ]
+    },
+    {
+      "path": "assets/generated/item-jiedan_early-ring.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-jiedan_early-ring.png",
+      "sha256": "a8ee8482a9470757c0ba3336a2cf6e3dfaa796396cfb06df9fa846625b910006",
+      "bytes": 18370,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.jiedan_early.ring"
+      ],
+      "itemdefids": [
+        100009,
+        100023,
+        100037,
+        100051,
+        100065,
+        200093,
+        200094
+      ]
+    },
+    {
+      "path": "assets/generated/item-jiedan_early-robe.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-jiedan_early-robe.png",
+      "sha256": "e4ae0f1011f146a793a05a98a365c33e4807460c975bb09259301faf18275fbb",
+      "bytes": 22487,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.jiedan_early.robe"
+      ],
+      "itemdefids": [
+        100010,
+        100024,
+        100038,
+        100052,
+        100066,
+        200077,
+        200078
+      ]
+    },
+    {
+      "path": "assets/generated/item-jiedan_early-star_pearl.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-jiedan_early-star_pearl.png",
+      "sha256": "5408a3ac4686164ae3ce2af2d834831426493393848c9e7c3084342673c519cd",
+      "bytes": 15277,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.jiedan_early.star_pearl"
+      ],
+      "itemdefids": [
+        200007
+      ]
+    },
+    {
+      "path": "assets/generated/item-jiedan_early-sword-sub_weapon-standard.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-jiedan_early-sword-sub_weapon-standard.png",
+      "sha256": "86ec979b339532a21c9d5efd2b544b3f7935f49739a79ff5ee0a09f72141eebc",
+      "bytes": 15612,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.jiedan_early.sword.sub_weapon.standard"
+      ],
+      "itemdefids": [
+        100012,
+        100026,
+        100040,
+        100054,
+        100068,
+        200097,
+        200098
+      ]
+    },
+    {
+      "path": "assets/generated/item-jiedan_early-sword.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-jiedan_early-sword.png",
+      "sha256": "8228129da9eedd211a937f5d48ffa0d7ff2358d32faa002cfeefc13db9a082a9",
+      "bytes": 7154,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.jiedan_early.sword"
+      ],
+      "itemdefids": [
+        100011,
+        100025,
+        100039,
+        100053,
+        100067,
+        200087,
+        200088
+      ]
+    },
+    {
+      "path": "assets/generated/item-jiedan_early-talisman-sub_weapon-standard.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-jiedan_early-talisman-sub_weapon-standard.png",
+      "sha256": "315cdea13e2c8f22a1c4eb357c7657e3d977c5e83fb07728985294eae2a3bcdc",
+      "bytes": 20847,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.jiedan_early.talisman.sub_weapon.standard"
+      ],
+      "itemdefids": [
+        100014,
+        100028,
+        100042,
+        100056,
+        100070,
+        200099,
+        200100
+      ]
+    },
+    {
+      "path": "assets/generated/item-jiedan_early-talisman.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-jiedan_early-talisman.png",
+      "sha256": "2c278b3a62fc211d000e50fb80beaf343f44bd073b389606b4b747cd7ab17a86",
+      "bytes": 23946,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.jiedan_early.talisman"
+      ],
+      "itemdefids": [
+        100013,
+        100027,
+        100041,
+        100055,
+        100069,
+        200089,
+        200090
+      ]
+    },
+    {
+      "path": "assets/generated/item-jiedan_middle-alchemist-sub_weapon-standard.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-jiedan_middle-alchemist-sub_weapon-standard.png",
+      "sha256": "95e5183e46cb3167de8842af0fa57d28ae7bf5dff77ae03d9231ed0df107946c",
+      "bytes": 29325,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.jiedan_middle.alchemist.sub_weapon.standard"
+      ],
+      "itemdefids": [
+        100071,
+        100085,
+        100099,
+        100113,
+        100132,
+        100146,
+        200113
+      ]
+    },
+    {
+      "path": "assets/generated/item-jiedan_middle-alchemy.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-jiedan_middle-alchemy.png",
+      "sha256": "b53f45cf3c4178496303617d83e0867a7c528455b209d6faf2f9addd9190d557",
+      "bytes": 21142,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.jiedan_middle.alchemy"
+      ],
+      "itemdefids": [
+        100072,
+        100086,
+        100100,
+        100114,
+        100133,
+        100147,
+        200108
+      ]
+    },
+    {
+      "path": "assets/generated/item-jiedan_middle-boots-standard.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-jiedan_middle-boots-standard.png",
+      "sha256": "8fea3e20ea56e2575879a1a43af735f5d4222d9c67287cfbd81d35b283bd7da8",
+      "bytes": 19953,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.jiedan_middle.boots.standard"
+      ],
+      "itemdefids": [
+        100073,
+        100087,
+        100101,
+        100115,
+        100134,
+        100148,
+        200101
+      ]
+    },
+    {
+      "path": "assets/generated/item-jiedan_middle-boss_ticket.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-jiedan_middle-boss_ticket.png",
+      "sha256": "be7363d847ec8bd506cd58c93fddb7697f3acb4c24182e3997d6ebbf39333959",
+      "bytes": 23913,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.jiedan_middle.boss_ticket"
+      ],
+      "itemdefids": [
+        200062
+      ]
+    },
+    {
+      "path": "assets/generated/item-jiedan_middle-bracer-standard.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-jiedan_middle-bracer-standard.png",
+      "sha256": "71f476afb1d8cd873c07f77aa7caa882a9020cc9e2dde32f47c6fe5b934dbbdc",
+      "bytes": 15445,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.jiedan_middle.bracer.standard"
+      ],
+      "itemdefids": [
+        100074,
+        100088,
+        100102,
+        100116,
+        100135,
+        100149,
+        200102
+      ]
+    },
+    {
+      "path": "assets/generated/item-jiedan_middle-crafting-accessory.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-jiedan_middle-crafting-accessory.png",
+      "sha256": "cb9dc3e864eb626d4c61cfc73409708ee07135864f15d56417b87eda9b44656d",
+      "bytes": 23977,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.jiedan_middle.crafting.accessory"
+      ],
+      "itemdefids": [
+        200008
+      ]
+    },
+    {
+      "path": "assets/generated/item-jiedan_middle-crafting-gear.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-jiedan_middle-crafting-gear.png",
+      "sha256": "c65299511c7e137e95a918b01720e7ef448da94f94930ffe24f1c56b524a4f3a",
+      "bytes": 19742,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.jiedan_middle.crafting.gear"
+      ],
+      "itemdefids": [
+        200009
+      ]
+    },
+    {
+      "path": "assets/generated/item-jiedan_middle-earring-standard.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-jiedan_middle-earring-standard.png",
+      "sha256": "32dfeb77a63509a3b7de48b4c8733ce1783d4f1d83db110a735ddcd9bd32b61a",
+      "bytes": 11897,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.jiedan_middle.earring.standard"
+      ],
+      "itemdefids": [
+        100075,
+        100089,
+        100103,
+        100117,
+        100136,
+        100150,
+        200105
+      ]
+    },
+    {
+      "path": "assets/generated/item-jiedan_middle-gloves-standard.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-jiedan_middle-gloves-standard.png",
+      "sha256": "32057ebc4739397795939c7d5086d553a8ce2212f733c57d6d1de30dc17e246e",
+      "bytes": 24997,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.jiedan_middle.gloves.standard"
+      ],
+      "itemdefids": [
+        100076,
+        100090,
+        100104,
+        100118,
+        100137,
+        100151,
+        200106
+      ]
+    },
+    {
+      "path": "assets/generated/item-jiedan_middle-gold_exchange.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-jiedan_middle-gold_exchange.png",
+      "sha256": "9a2073c3a63268135f8741681df6339dee6ea8f5a3eebf6b9159e58a0ebf930a",
+      "bytes": 30451,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.jiedan_middle.gold_exchange"
+      ],
+      "itemdefids": [
+        200072
+      ]
+    },
+    {
+      "path": "assets/generated/item-jiedan_middle-helmet-standard.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-jiedan_middle-helmet-standard.png",
+      "sha256": "102407de91774c013be14d8a506e4af82d54d19bf5ab87bd7b7cddba1a83679b",
+      "bytes": 19619,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.jiedan_middle.helmet.standard"
+      ],
+      "itemdefids": [
+        100077,
+        100091,
+        100105,
+        100119,
+        100138,
+        100152,
+        200107
+      ]
+    },
+    {
+      "path": "assets/generated/item-jiedan_middle-necklace-standard.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-jiedan_middle-necklace-standard.png",
+      "sha256": "621efdb1f0eb1c96f5085c574ac489fb70121c4357c4d4839cd2372e9c1acf74",
+      "bytes": 16123,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.jiedan_middle.necklace.standard"
+      ],
+      "itemdefids": [
+        100078,
+        100092,
+        100106,
+        100120,
+        100139,
+        100153,
+        200111
+      ]
+    },
+    {
+      "path": "assets/generated/item-jiedan_middle-poison_armor.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-jiedan_middle-poison_armor.png",
+      "sha256": "2dfdda4f346ec7a4892a3904d458cbb75ece8dde73d57285353f724129d6c976",
+      "bytes": 32358,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.jiedan_middle.poison_armor"
+      ],
+      "itemdefids": [
+        100127,
+        100128,
+        100129,
+        100130,
+        100131,
+        200103
+      ]
+    },
+    {
+      "path": "assets/generated/item-jiedan_middle-poison_resistance-common.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-jiedan_middle-poison_resistance-common.png",
+      "sha256": "9f95930e6a621d88e52f35d0a6e8c6ae0d59d61ca246fdca84c012d7b2877911",
+      "bytes": 28034,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.jiedan_middle.poison_resistance.common"
+      ],
+      "itemdefids": [
+        200044
+      ]
+    },
+    {
+      "path": "assets/generated/item-jiedan_middle-poison_resistance-epic.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-jiedan_middle-poison_resistance-epic.png",
+      "sha256": "6983285f3683ea2f8315dffa4c04ffcf8ca8746584c5e8141e5f7e4160106b0e",
+      "bytes": 28495,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.jiedan_middle.poison_resistance.epic"
+      ],
+      "itemdefids": [
+        200045
+      ]
+    },
+    {
+      "path": "assets/generated/item-jiedan_middle-poison_resistance.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-jiedan_middle-poison_resistance.png",
+      "sha256": "7a059e5aa548be0ba3fe9875116a76ab843ef76d471708070a71b433ef797d13",
+      "bytes": 29963,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.jiedan_middle.poison_resistance.rare"
+      ],
+      "itemdefids": [
+        200010
+      ]
+    },
+    {
+      "path": "assets/generated/item-jiedan_middle-ring.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-jiedan_middle-ring.png",
+      "sha256": "adab1a4a421b06a81ab55c0b27e3f04b237073a1260d37bb5b08128fac535b54",
+      "bytes": 18082,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.jiedan_middle.ring"
+      ],
+      "itemdefids": [
+        100079,
+        100093,
+        100107,
+        100121,
+        100140,
+        100154,
+        200112
+      ]
+    },
+    {
+      "path": "assets/generated/item-jiedan_middle-robe.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-jiedan_middle-robe.png",
+      "sha256": "2254c29bebf11155ddb46e952872ebac5bd449b47b1c6a0b5efa2595545c3e19",
+      "bytes": 24640,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.jiedan_middle.robe"
+      ],
+      "itemdefids": [
+        100080,
+        100094,
+        100108,
+        100122,
+        100141,
+        100155,
+        200104
+      ]
+    },
+    {
+      "path": "assets/generated/item-jiedan_middle-sword-sub_weapon-standard.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-jiedan_middle-sword-sub_weapon-standard.png",
+      "sha256": "a7160f8724e15400c7be122979a07f3b8d891e0837c61e620b37dde726bd0eff",
+      "bytes": 14256,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.jiedan_middle.sword.sub_weapon.standard"
+      ],
+      "itemdefids": [
+        100082,
+        100096,
+        100110,
+        100124,
+        100143,
+        100157,
+        200114
+      ]
+    },
+    {
+      "path": "assets/generated/item-jiedan_middle-sword.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-jiedan_middle-sword.png",
+      "sha256": "1c9dab218ec27f3b3d9c885905a56d47c74a5796ede20f3aad8616cd271d12ad",
+      "bytes": 11001,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.jiedan_middle.sword"
+      ],
+      "itemdefids": [
+        100081,
+        100095,
+        100109,
+        100123,
+        100142,
+        100156,
+        200109
+      ]
+    },
+    {
+      "path": "assets/generated/item-jiedan_middle-talisman-sub_weapon-standard.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-jiedan_middle-talisman-sub_weapon-standard.png",
+      "sha256": "62e1643a8052732b657b9519ac0c56be37f6df2f29ead037c9e7fd6a9edad313",
+      "bytes": 30278,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.jiedan_middle.talisman.sub_weapon.standard"
+      ],
+      "itemdefids": [
+        100084,
+        100098,
+        100112,
+        100126,
+        100145,
+        100159,
+        200115
+      ]
+    },
+    {
+      "path": "assets/generated/item-jiedan_middle-talisman.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-jiedan_middle-talisman.png",
+      "sha256": "5543f2e58332510bd9fc3dfb897b32d3babe51502075f0d254b5df33703676b6",
+      "bytes": 19770,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.jiedan_middle.talisman"
+      ],
+      "itemdefids": [
+        100083,
+        100097,
+        100111,
+        100125,
+        100144,
+        100158,
+        200110
+      ]
+    },
+    {
+      "path": "assets/generated/item-jiedan_middle-violet_marrow.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-jiedan_middle-violet_marrow.png",
+      "sha256": "84a513cc6bc51e9a2962b8675f80bca15b1ef57ed60f62c5b8406ff0af7c144c",
+      "bytes": 29380,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.jiedan_middle.violet_marrow"
+      ],
+      "itemdefids": [
+        200011
+      ]
+    },
+    {
+      "path": "assets/generated/item-lianqi-alchemist-sub_weapon-standard.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-lianqi-alchemist-sub_weapon-standard.png",
+      "sha256": "4d8910ecc0c11986637049bfec605fd71ccd0f9b09cb28c7de0101e474ca93b0",
+      "bytes": 22713,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.lianqi.alchemist.sub_weapon.standard"
+      ],
+      "itemdefids": [
+        100160,
+        100174,
+        100188,
+        100202,
+        100216
+      ]
+    },
+    {
+      "path": "assets/generated/item-lianqi-boots-standard.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-lianqi-boots-standard.png",
+      "sha256": "1c3c42803a99daf1fad9d0a6965c3cb528efa34b2a3362f59d808ce977c549a7",
+      "bytes": 17346,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.lianqi.boots.standard"
+      ],
+      "itemdefids": [
+        100162,
+        100176,
+        100190,
+        100204,
+        100217
+      ]
+    },
+    {
+      "path": "assets/generated/item-lianqi-bracer-standard.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-lianqi-bracer-standard.png",
+      "sha256": "3435ff876f533c3b2f59b5c5ad4b5d637ee44c90c18415bc70b8dc3b0673c034",
+      "bytes": 22812,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.lianqi.bracer.standard"
+      ],
+      "itemdefids": [
+        100163,
+        100177,
+        100191,
+        100205,
+        100218
+      ]
+    },
+    {
+      "path": "assets/generated/item-lianqi-crafting-accessory.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-lianqi-crafting-accessory.png",
+      "sha256": "5843033d036e495503f0574562c0525e1c12f9d18ca05756747c397ec9b28b94",
+      "bytes": 18038,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.lianqi.crafting.accessory"
+      ],
+      "itemdefids": [
+        200013
+      ]
+    },
+    {
+      "path": "assets/generated/item-lianqi-crafting-gear.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-lianqi-crafting-gear.png",
+      "sha256": "d96369a8e4c5908e72cb0f58a000bf7ef8bf0e9671c9f6eaa30655b02b6b9ad9",
+      "bytes": 14349,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.lianqi.crafting.gear"
+      ],
+      "itemdefids": [
+        200014
+      ]
+    },
+    {
+      "path": "assets/generated/item-lianqi-earring-standard.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-lianqi-earring-standard.png",
+      "sha256": "da36eae75e58bcba9c78c16bd17d2ff3e52a9bda9ed815ccde10bbb7731c1b93",
+      "bytes": 12086,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.lianqi.earring.standard"
+      ],
+      "itemdefids": [
+        100165,
+        100179,
+        100193,
+        100207,
+        100220
+      ]
+    },
+    {
+      "path": "assets/generated/item-lianqi-gloves-standard.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-lianqi-gloves-standard.png",
+      "sha256": "90a55f9cdb2bc994b7d4f6cb99b0f82a4a29e4d2c1fc1fad8c313d8ff5b9966f",
+      "bytes": 20123,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.lianqi.gloves.standard"
+      ],
+      "itemdefids": [
+        100166,
+        100180,
+        100194,
+        100208,
+        100221
+      ]
+    },
+    {
+      "path": "assets/generated/item-lianqi-gold_exchange.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-lianqi-gold_exchange.png",
+      "sha256": "8302a8b1237b0cc67caae36e0fae23c706bfebb402680409d3bd389eeb17faf3",
+      "bytes": 24713,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.lianqi.gold_exchange"
+      ],
+      "itemdefids": [
+        200067
+      ]
+    },
+    {
+      "path": "assets/generated/item-lianqi-helmet-standard.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-lianqi-helmet-standard.png",
+      "sha256": "1816e9a175dbf8a8875f731d43a11e12cab940a1d1294d9f171cad6e8a37346f",
+      "bytes": 17851,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.lianqi.helmet.standard"
+      ],
+      "itemdefids": [
+        100167,
+        100181,
+        100195,
+        100209,
+        100222
+      ]
+    },
+    {
+      "path": "assets/generated/item-lianqi-necklace-standard.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-lianqi-necklace-standard.png",
+      "sha256": "96fa2c8c32dc7cb170f8b5e71ea64168bcaba2483636aa2001b4e449ed1b7579",
+      "bytes": 20999,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.lianqi.necklace.standard"
+      ],
+      "itemdefids": [
+        100168,
+        100182,
+        100196,
+        100210,
+        100225
+      ]
+    },
+    {
+      "path": "assets/generated/item-lianqi-ring-standard.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-lianqi-ring-standard.png",
+      "sha256": "5975a85e7f347342d5d36595f053bab227f5e861eaab48ba3d47d172241febdb",
+      "bytes": 18239,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.lianqi.ring.standard"
+      ],
+      "itemdefids": [
+        100169,
+        100183,
+        100197,
+        100211,
+        100226
+      ]
+    },
+    {
+      "path": "assets/generated/item-lianqi-sword-sub_weapon-standard.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-lianqi-sword-sub_weapon-standard.png",
+      "sha256": "380ee8f96835b8742d240d0738ef5c3d2fa971c15baff0f73d6dc18fc9b3f21f",
+      "bytes": 21529,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.lianqi.sword.sub_weapon.standard"
+      ],
+      "itemdefids": [
+        100171,
+        100186,
+        100199,
+        100213,
+        100227
+      ]
+    },
+    {
+      "path": "assets/generated/item-lianqi-talisman-sub_weapon-standard.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-lianqi-talisman-sub_weapon-standard.png",
+      "sha256": "b2c96b6379bd9232e5b217b4bf482c241cba025b61c413ab9b4d5e38bdba2bf0",
+      "bytes": 19417,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.lianqi.talisman.sub_weapon.standard"
+      ],
+      "itemdefids": [
+        100173,
+        100187,
+        100201,
+        100215,
+        100229
+      ]
+    },
+    {
+      "path": "assets/generated/item-socket-chain-chihun_blood_amber.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-socket-chain-chihun_blood_amber.png",
+      "sha256": "3dcf2c0e3c7bc6d311b08863fa7394078115f0b7fbc57e8ca8464add3ff86167",
+      "bytes": 30238,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.socket.chain.chihun_blood_amber"
+      ],
+      "itemdefids": [
+        200029
+      ]
+    },
+    {
+      "path": "assets/generated/item-socket-chain-dimai_spirit_marrow.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-socket-chain-dimai_spirit_marrow.png",
+      "sha256": "de9aae27edab34e4cd97d3f73b3cfb1e56b9cd2cc4fd1d20322bbbc0edd76074",
+      "bytes": 26623,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.socket.chain.dimai_spirit_marrow"
+      ],
+      "itemdefids": [
+        200043
+      ]
+    },
+    {
+      "path": "assets/generated/item-socket-chain-fusang_amber.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-socket-chain-fusang_amber.png",
+      "sha256": "28e3e2982dbb1ba25a67b0c1d87f2068bdf74797df90c8d6906dc2cb714cf2f4",
+      "bytes": 31753,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.socket.chain.fusang_amber"
+      ],
+      "itemdefids": [
+        200035
+      ]
+    },
+    {
+      "path": "assets/generated/item-socket-chain-huiling_stone.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-socket-chain-huiling_stone.png",
+      "sha256": "963950cb4db85438ce5b6110773f8d79a8e32c37a1616d5a282249f6671597d7",
+      "bytes": 27101,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.socket.chain.huiling_stone"
+      ],
+      "itemdefids": [
+        200048
+      ]
+    },
+    {
+      "path": "assets/generated/item-socket-chain-huixiang_amber.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-socket-chain-huixiang_amber.png",
+      "sha256": "6a1ac7b7770c22373615839308d518f8238e81044c3fe89395c459eac1685882",
+      "bytes": 26184,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.socket.chain.huixiang_amber"
+      ],
+      "itemdefids": [
+        200049
+      ]
+    },
+    {
+      "path": "assets/generated/item-socket-chain-jinsui_jade.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-socket-chain-jinsui_jade.png",
+      "sha256": "69550053b70f7a75ed7f61a9aa63c6773b2362109f7c59fe926ab74cc5b7e34e",
+      "bytes": 27973,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.socket.chain.jinsui_jade"
+      ],
+      "itemdefids": [
+        200006
+      ]
+    },
+    {
+      "path": "assets/generated/item-socket-chain-jinwen_sand.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-socket-chain-jinwen_sand.png",
+      "sha256": "a7b15ccd0bb914819c9ed8237992836f6c87f0c42888a7471c37d7cd054a8539",
+      "bytes": 24846,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.socket.chain.jinwen_sand"
+      ],
+      "itemdefids": [
+        200034
+      ]
+    },
+    {
+      "path": "assets/generated/item-socket-chain-jiuxiao_wind_marrow.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-socket-chain-jiuxiao_wind_marrow.png",
+      "sha256": "82b03322f8148c8a65f09acd92aea73d94d91e6dae7c8775637586ce0a6c7497",
+      "bytes": 23654,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.socket.chain.jiuxiao_wind_marrow"
+      ],
+      "itemdefids": [
+        200017
+      ]
+    },
+    {
+      "path": "assets/generated/item-socket-chain-qingnang_jade.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-socket-chain-qingnang_jade.png",
+      "sha256": "3fb408d5fc4fb04046441851b6c9c2c4fdb7c8c45137ecebf420e3e0ecb6ffa4",
+      "bytes": 27311,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.socket.chain.qingnang_jade"
+      ],
+      "itemdefids": [
+        200046
+      ]
+    },
+    {
+      "path": "assets/generated/item-socket-chain-shuangwen_sand.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-socket-chain-shuangwen_sand.png",
+      "sha256": "17612fde3d862de38f0eb6c9a29db2ee901f7c63874760efae2449f137d409cb",
+      "bytes": 23107,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.socket.chain.shuangwen_sand"
+      ],
+      "itemdefids": [
+        200023
+      ]
+    },
+    {
+      "path": "assets/generated/item-socket-chain-taichu_primal_core.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-socket-chain-taichu_primal_core.png",
+      "sha256": "68e4414294a15645bddb07b98e93891ea6609fadc6735bca4bb072450a686b40",
+      "bytes": 30407,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.socket.chain.taichu_primal_core"
+      ],
+      "itemdefids": [
+        200055
+      ]
+    },
+    {
+      "path": "assets/generated/item-socket-chain-taixu_resonant_amber.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-socket-chain-taixu_resonant_amber.png",
+      "sha256": "512aeddadac1826ecce75f73c1225bd523ea2aa1147531abdcda16c9c1c4c86a",
+      "bytes": 25028,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.socket.chain.taixu_resonant_amber"
+      ],
+      "itemdefids": [
+        200053
+      ]
+    },
+    {
+      "path": "assets/generated/item-socket-chain-taiyin_ice_soul.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-socket-chain-taiyin_ice_soul.png",
+      "sha256": "15ecfeabd09220cae5c57daca6946c5f93cdd5fba5d774262259191b519fcfb7",
+      "bytes": 26128,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.socket.chain.taiyin_ice_soul"
+      ],
+      "itemdefids": [
+        200026
+      ]
+    },
+    {
+      "path": "assets/generated/item-socket-chain-wanling_cleansing_marrow.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-socket-chain-wanling_cleansing_marrow.png",
+      "sha256": "09f0be3c823d82d03b1a48e93a80ac18a96d03d935a0318971e02e03f0d16b36",
+      "bytes": 29344,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.socket.chain.wanling_cleansing_marrow"
+      ],
+      "itemdefids": [
+        200047
+      ]
+    },
+    {
+      "path": "assets/generated/item-socket-chain-xuanbing_crystal.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-socket-chain-xuanbing_crystal.png",
+      "sha256": "b8dba3228d7fe560d7e414cf24b4904507f2625f033add732464d4dc0333a120",
+      "bytes": 25184,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.socket.chain.xuanbing_crystal"
+      ],
+      "itemdefids": [
+        200027
+      ]
+    },
+    {
+      "path": "assets/generated/item-socket-chain-xuanfeng_jade.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-socket-chain-xuanfeng_jade.png",
+      "sha256": "9a2e707ffdd38c35d85ff1da2912984e824c3a1282ec753c6fb611ed126e4205",
+      "bytes": 33656,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.socket.chain.xuanfeng_jade"
+      ],
+      "itemdefids": [
+        200030
+      ]
+    },
+    {
+      "path": "assets/generated/item-socket-chain-xuelian_stone.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-socket-chain-xuelian_stone.png",
+      "sha256": "584de81d3bfaa9c480bbd51120b84881f708e0358aa4289ab24a40ef217ed21d",
+      "bytes": 26290,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.socket.chain.xuelian_stone"
+      ],
+      "itemdefids": [
+        200050
+      ]
+    },
+    {
+      "path": "assets/generated/item-socket-chain-yinfeng_sand.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-socket-chain-yinfeng_sand.png",
+      "sha256": "e17b044658cf3f98e8785797716d3e7a45362cd044d7c8eda537affda7582257",
+      "bytes": 23969,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.socket.chain.yinfeng_sand"
+      ],
+      "itemdefids": [
+        200019
+      ]
+    },
+    {
+      "path": "assets/generated/item-socket-guxi_leaf.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-socket-guxi_leaf.png",
+      "sha256": "844a36ffe5f23e30dadeb92da2f13572633361bfda08cca22b0cf5fa2e82a771",
+      "bytes": 26991,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.socket.guxi_leaf"
+      ],
+      "itemdefids": [
+        200015
+      ]
+    },
+    {
+      "path": "assets/generated/item-socket-linghuo_cinnabar.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-socket-linghuo_cinnabar.png",
+      "sha256": "d9ff6372736575ece58a69bb59fe97148d82e7cdd1f493cf055d65f04e6887a1",
+      "bytes": 28544,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.socket.linghuo_cinnabar"
+      ],
+      "itemdefids": [
+        200016
+      ]
+    },
+    {
+      "path": "assets/generated/item-socket-moon_silver_sand.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-socket-moon_silver_sand.png",
+      "sha256": "180591b19e189237b9e11bc697587e0c12facb63dfb233853cfb19f4e3de7c8b",
+      "bytes": 25969,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.socket.moon_silver_sand"
+      ],
+      "itemdefids": [
+        200052
+      ]
+    },
+    {
+      "path": "assets/generated/item-socket-origin_amber.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-socket-origin_amber.png",
+      "sha256": "10190a8c8c19083739cc09eef5e37bec801d10948f47fbd3a86dad048bdf1364",
+      "bytes": 26258,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.socket.origin_amber"
+      ],
+      "itemdefids": [
+        200054
+      ]
+    },
+    {
+      "path": "assets/generated/item-socket-void_glaze.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-socket-void_glaze.png",
+      "sha256": "86eab5d0879334b98c90424e55b0470ecbf4cf78898ddf6e774ee51513066b69",
+      "bytes": 25523,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.socket.void_glaze"
+      ],
+      "itemdefids": [
+        200051
+      ]
+    },
+    {
+      "path": "assets/generated/item-socket-xinglu_pearl.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-socket-xinglu_pearl.png",
+      "sha256": "752c8bf8ae8b0bdf52bffdf86c303fe807213ce976c19a288a5632b17d721d65",
+      "bytes": 23434,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.socket.xinglu_pearl"
+      ],
+      "itemdefids": [
+        200018
+      ]
+    },
+    {
+      "path": "assets/generated/item-sword-common.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-sword-common.png",
+      "sha256": "d7087854121ff59a4e62d3d85ab8d25e7a3f502bfe9c11f55812420c019dd93d",
+      "bytes": 10927,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.sword.common"
+      ],
+      "itemdefids": [
+        100170,
+        100185,
+        100198,
+        100212,
+        100223
+      ]
+    },
+    {
+      "path": "assets/generated/item-talisman-common.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-talisman-common.png",
+      "sha256": "566c602118bc9bd1937169c2f4b789564057b174a2344f53eb5269bb06633a69",
+      "bytes": 18949,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.talisman.common"
+      ],
+      "itemdefids": [
+        100172,
+        100184,
+        100200,
+        100214,
+        100228
+      ]
+    },
+    {
+      "path": "assets/generated/item-theme-ice-armor.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-theme-ice-armor.png",
+      "sha256": "4385139c6835b8c22b942b950b374c50ac11317e392158dc17ce0b9bc621bcd6",
+      "bytes": 32301,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.theme.ice.armor"
+      ],
+      "itemdefids": [
+        100279,
+        100280,
+        100281,
+        100282,
+        200118
+      ]
+    },
+    {
+      "path": "assets/generated/item-zhuji_early-alchemy_gourd.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-zhuji_early-alchemy_gourd.png",
+      "sha256": "6cd09b39a09da4207f6a439adfe6d6175a4be20587e4de8414df4698c33f3195",
+      "bytes": 14549,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.zhuji_early.alchemy_gourd"
+      ],
+      "itemdefids": [
+        100230,
+        100247,
+        100263,
+        100283,
+        100299,
+        200128
+      ]
+    },
+    {
+      "path": "assets/generated/item-zhuji_early-alchemy_lamp.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-zhuji_early-alchemy_lamp.png",
+      "sha256": "9ee87efb07599cf2d54e09e27ed5cd2a154b27d3b5b174a63144a26f4d938223",
+      "bytes": 19453,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.zhuji_early.alchemy_lamp"
+      ],
+      "itemdefids": [
+        100231,
+        100248,
+        100264,
+        100284,
+        100300,
+        200123
+      ]
+    },
+    {
+      "path": "assets/generated/item-zhuji_early-boots-standard.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-zhuji_early-boots-standard.png",
+      "sha256": "38faca90274ed6757c7e7c0ab8bac088ab6c7a2761c2a67e7379867745ab3176",
+      "bytes": 16912,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.zhuji_early.boots.standard"
+      ],
+      "itemdefids": [
+        100232,
+        100249,
+        100265,
+        100285,
+        100301,
+        200116
+      ]
+    },
+    {
+      "path": "assets/generated/item-zhuji_early-boss_ticket.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-zhuji_early-boss_ticket.png",
+      "sha256": "09f901ec47bdd71dc249d21439fdf0435940300ef15415182c801e3246275961",
+      "bytes": 15304,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.zhuji_early.boss_ticket"
+      ],
+      "itemdefids": [
+        200064
+      ]
+    },
+    {
+      "path": "assets/generated/item-zhuji_early-cloud_ring.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-zhuji_early-cloud_ring.png",
+      "sha256": "b66ae57363ee21de4fe808fe912abbbcb8959f8b6b4fb6500f8e1d8c3e31f08e",
+      "bytes": 17052,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.zhuji_early.cloud_ring"
+      ],
+      "itemdefids": [
+        100233,
+        100250,
+        100266,
+        100286,
+        100302,
+        200127
+      ]
+    },
+    {
+      "path": "assets/generated/item-zhuji_early-crafting-accessory.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-zhuji_early-crafting-accessory.png",
+      "sha256": "7847953de18d72c84173dd408a1f444a3731bf0ea58b9429c0554a3c96594338",
+      "bytes": 17772,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.zhuji_early.crafting.accessory"
+      ],
+      "itemdefids": [
+        200021
+      ]
+    },
+    {
+      "path": "assets/generated/item-zhuji_early-crafting-gear.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-zhuji_early-crafting-gear.png",
+      "sha256": "49f9aa1c8cfc5a76a75df001f6b042c72dc3001b345dfc454aef852465668b8f",
+      "bytes": 21121,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.zhuji_early.crafting.gear"
+      ],
+      "itemdefids": [
+        200022
+      ]
+    },
+    {
+      "path": "assets/generated/item-zhuji_early-earring-standard.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-zhuji_early-earring-standard.png",
+      "sha256": "bd3f15009b6eb49c9ca7ac831cd7e805e4ee7305dea1b458631e4445f5c1d8c6",
+      "bytes": 15410,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.zhuji_early.earring.standard"
+      ],
+      "itemdefids": [
+        100234,
+        100251,
+        100267,
+        100287,
+        100303,
+        200120
+      ]
+    },
+    {
+      "path": "assets/generated/item-zhuji_early-gloves-standard.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-zhuji_early-gloves-standard.png",
+      "sha256": "4f3d9d71f8f1a0ef69814e4337a815dab95ea79b4c709e6dea62180cc2c89af4",
+      "bytes": 19415,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.zhuji_early.gloves.standard"
+      ],
+      "itemdefids": [
+        100235,
+        100252,
+        100268,
+        100288,
+        100304,
+        200121
+      ]
+    },
+    {
+      "path": "assets/generated/item-zhuji_early-gold_exchange.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-zhuji_early-gold_exchange.png",
+      "sha256": "d390224949e3a8473b63ab6848d8d71f483d5c0e96eb4828dfc3506090e1ed18",
+      "bytes": 23342,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.zhuji_early.gold_exchange"
+      ],
+      "itemdefids": [
+        200068
+      ]
+    },
+    {
+      "path": "assets/generated/item-zhuji_early-guard_robe.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-zhuji_early-guard_robe.png",
+      "sha256": "3bc6902c2d82517414b067e6f31b4a06784eaaf109f5e9eaf2ceb3b166ebde75",
+      "bytes": 23260,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.zhuji_early.guard_robe"
+      ],
+      "itemdefids": [
+        100236,
+        100253,
+        100269,
+        100289,
+        100305,
+        200119
+      ]
+    },
+    {
+      "path": "assets/generated/item-zhuji_early-helmet-standard.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-zhuji_early-helmet-standard.png",
+      "sha256": "ad48f95c9f13bfbb22cf77906d946f0d571f353ea6dc653335c96e69a8eed482",
+      "bytes": 16991,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.zhuji_early.helmet.standard"
+      ],
+      "itemdefids": [
+        100237,
+        100254,
+        100270,
+        100290,
+        100306,
+        200122
+      ]
+    },
+    {
+      "path": "assets/generated/item-zhuji_early-ice_resistance-epic.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-zhuji_early-ice_resistance-epic.png",
+      "sha256": "4d0db25f67b8672a4e4e3dd90d2375b9de82d23f54fcb5f0cd079ecb8ca5dd5d",
+      "bytes": 20119,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.zhuji_early.ice_resistance.epic"
+      ],
+      "itemdefids": [
+        200024
+      ]
+    },
+    {
+      "path": "assets/generated/item-zhuji_early-ice_resistance-good.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-zhuji_early-ice_resistance-good.png",
+      "sha256": "d8087a32bf7433b2bf7603d1fd5dee1b9806eb4e2f7005e2aa11c0facaae1751",
+      "bytes": 14329,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.zhuji_early.ice_resistance.good"
+      ],
+      "itemdefids": [
+        200025
+      ]
+    },
+    {
+      "path": "assets/generated/item-zhuji_early-jade_sword_sheath.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-zhuji_early-jade_sword_sheath.png",
+      "sha256": "6af96fe0394d63e0448c63104d10d13b6f35110294143066d52057b3bd0a237a",
+      "bytes": 15136,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.zhuji_early.jade_sword_sheath"
+      ],
+      "itemdefids": [
+        100311,
+        100312,
+        100313,
+        100314,
+        100315
+      ]
+    },
+    {
+      "path": "assets/generated/item-zhuji_early-moon_robe.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-zhuji_early-moon_robe.png",
+      "sha256": "ef80f0a1d479be413ca000fb1eaa480eb154de16c9913b2d62f13f0f4c2c8598",
+      "bytes": 25995,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.zhuji_early.moon_robe"
+      ],
+      "itemdefids": [
+        100238,
+        100255,
+        100271,
+        100291,
+        100307
+      ]
+    },
+    {
+      "path": "assets/generated/item-zhuji_early-necklace-standard.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-zhuji_early-necklace-standard.png",
+      "sha256": "6ef147255d0b16c975ad89137473249cc86588880062c7d8ebaf6fe064e4c1b0",
+      "bytes": 10000,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.zhuji_early.necklace.standard"
+      ],
+      "itemdefids": [
+        100239,
+        100256,
+        100272,
+        100292,
+        100308,
+        200126
+      ]
+    },
+    {
+      "path": "assets/generated/item-zhuji_early-ningmai_sand.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-zhuji_early-ningmai_sand.png",
+      "sha256": "e8697609610a3fc3ef2090c295ed15f46457e40964754457b1fb117927021271",
+      "bytes": 16036,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.zhuji_early.ningmai_sand"
+      ],
+      "itemdefids": [
+        200028
+      ]
+    },
+    {
+      "path": "assets/generated/item-zhuji_early-star_fan.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-zhuji_early-star_fan.png",
+      "sha256": "743d937fd4231ec94bfb2ee694aa97fded147df340e581ca9a3ca93c7eae6dc0",
+      "bytes": 20234,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.zhuji_early.star_fan"
+      ],
+      "itemdefids": [
+        100240,
+        100257,
+        100273,
+        100293,
+        100309
+      ]
+    },
+    {
+      "path": "assets/generated/item-zhuji_early-sword_edge.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-zhuji_early-sword_edge.png",
+      "sha256": "26cf3c4f81a7cc6afe7f7988ff144a89428a033d8f96e618484a2f24d93ce3c7",
+      "bytes": 6895,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.zhuji_early.sword_edge"
+      ],
+      "itemdefids": [
+        100241,
+        100258,
+        100274,
+        100294,
+        100310,
+        200124
+      ]
+    },
+    {
+      "path": "assets/generated/item-zhuji_early-sword_sheath.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-zhuji_early-sword_sheath.png",
+      "sha256": "0f5ad3d733e1f6082a1116c6fde56ec5e8498ba4c551990e9f09104ec3881bf8",
+      "bytes": 14508,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.zhuji_early.sword_sheath"
+      ],
+      "itemdefids": [
+        100242,
+        100243,
+        100259,
+        100275,
+        100295,
+        200129
+      ]
+    },
+    {
+      "path": "assets/generated/item-zhuji_early-talisman_fan.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-zhuji_early-talisman_fan.png",
+      "sha256": "11cc1f8fb520cc9052e562ac708796ee70e32e085fd361e367f61858d23c9fe1",
+      "bytes": 17383,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.zhuji_early.talisman_fan"
+      ],
+      "itemdefids": [
+        100244,
+        100260,
+        100276,
+        100296,
+        100316,
+        200125
+      ]
+    },
+    {
+      "path": "assets/generated/item-zhuji_early-talisman_seal.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-zhuji_early-talisman_seal.png",
+      "sha256": "dc271d5c3cd902424dd0caad0bb07c11278ff5ce7df2b633691d112892d3c395",
+      "bytes": 16531,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.zhuji_early.talisman_seal"
+      ],
+      "itemdefids": [
+        100245,
+        100261,
+        100277,
+        100297,
+        100317,
+        200130
+      ]
+    },
+    {
+      "path": "assets/generated/item-zhuji_early-wind_bracer.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-zhuji_early-wind_bracer.png",
+      "sha256": "4b8aafbb2b9487c7e04cc6ced69a5ab2e1d24e4a5e03a8fefc6c8e3492854f36",
+      "bytes": 17629,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.zhuji_early.wind_bracer"
+      ],
+      "itemdefids": [
+        100246,
+        100262,
+        100278,
+        100298,
+        100318,
+        200117
+      ]
+    },
+    {
+      "path": "assets/generated/item-zhuji_late-alchemist-sub_weapon-standard.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-zhuji_late-alchemist-sub_weapon-standard.png",
+      "sha256": "8faca0c8b7a0bb7be8b7481b3b72b6db2bb85480ee82ccb06b06acdc5375296e",
+      "bytes": 20406,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.zhuji_late.alchemist.sub_weapon.standard"
+      ],
+      "itemdefids": [
+        100319,
+        100332,
+        100349,
+        100362,
+        100375,
+        200143
+      ]
+    },
+    {
+      "path": "assets/generated/item-zhuji_late-alchemy.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-zhuji_late-alchemy.png",
+      "sha256": "1ef0bf39e0cfedf5d1d734a5d47db8dc42e054129396410cecb81e1887a17c19",
+      "bytes": 24037,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.zhuji_late.alchemy"
+      ],
+      "itemdefids": [
+        100320,
+        100333,
+        100350,
+        100363,
+        100376,
+        200138
+      ]
+    },
+    {
+      "path": "assets/generated/item-zhuji_late-boots-standard.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-zhuji_late-boots-standard.png",
+      "sha256": "df7cd4d28a9f0a65c5bdc4fd9b3d0d455daf414fc79f586501e644fc9cbe63fa",
+      "bytes": 23522,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.zhuji_late.boots.standard"
+      ],
+      "itemdefids": [
+        100321,
+        100334,
+        100351,
+        100364,
+        100377,
+        200131
+      ]
+    },
+    {
+      "path": "assets/generated/item-zhuji_late-boss_ticket.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-zhuji_late-boss_ticket.png",
+      "sha256": "6c3950c957449b27407161ed85c7be710a511e837c23235d8c88500683b5899b",
+      "bytes": 29651,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.zhuji_late.boss_ticket"
+      ],
+      "itemdefids": [
+        200065
+      ]
+    },
+    {
+      "path": "assets/generated/item-zhuji_late-bracer-standard.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-zhuji_late-bracer-standard.png",
+      "sha256": "b9e7f9d432b90b0d60c1fb308edce08c8efd042c0a87b72b364e4f2f6d3882ff",
+      "bytes": 17114,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.zhuji_late.bracer.standard"
+      ],
+      "itemdefids": [
+        100322,
+        100335,
+        100352,
+        100365,
+        100378,
+        200132
+      ]
+    },
+    {
+      "path": "assets/generated/item-zhuji_late-crafting-accessory.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-zhuji_late-crafting-accessory.png",
+      "sha256": "a8260c4657ce523a8f55f3e89700c11857a3031516eef68e5753159b8459b7d2",
+      "bytes": 26208,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.zhuji_late.crafting.accessory"
+      ],
+      "itemdefids": [
+        200032
+      ]
+    },
+    {
+      "path": "assets/generated/item-zhuji_late-crafting-gear.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-zhuji_late-crafting-gear.png",
+      "sha256": "94230a298770d994aacd680cc9fae7cac4dfbc6ab04388c75cf2e1a3f14cd431",
+      "bytes": 21868,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.zhuji_late.crafting.gear"
+      ],
+      "itemdefids": [
+        200033
+      ]
+    },
+    {
+      "path": "assets/generated/item-zhuji_late-earring-standard.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-zhuji_late-earring-standard.png",
+      "sha256": "417767f81949f3c3377fc5ac3212acd4d7a375c1215e9a3d497d4091eea810ea",
+      "bytes": 10778,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.zhuji_late.earring.standard"
+      ],
+      "itemdefids": [
+        100323,
+        100336,
+        100353,
+        100366,
+        100379,
+        200135
+      ]
+    },
+    {
+      "path": "assets/generated/item-zhuji_late-fire_armor.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-zhuji_late-fire_armor.png",
+      "sha256": "0704dfae9451f7be65ed819645ed44cd0bae43d2b33d56313813eee0f74f564c",
+      "bytes": 25297,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.zhuji_late.fire_armor"
+      ],
+      "itemdefids": [
+        100345,
+        100346,
+        100347,
+        100348,
+        200133
+      ]
+    },
+    {
+      "path": "assets/generated/item-zhuji_late-fire_resistance-good.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-zhuji_late-fire_resistance-good.png",
+      "sha256": "0b0053faf5d64dcf9be1b8f016e735741b3b781025eff8fac48acb8fe0e60c5b",
+      "bytes": 19893,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.zhuji_late.fire_resistance.good"
+      ],
+      "itemdefids": [
+        200036
+      ]
+    },
+    {
+      "path": "assets/generated/item-zhuji_late-fire_resistance-immortal.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-zhuji_late-fire_resistance-immortal.png",
+      "sha256": "34399db094ad2acec1ee4329ac4e1a8d20c19793da90387b551561db948c2448",
+      "bytes": 24797,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.zhuji_late.fire_resistance.immortal"
+      ],
+      "itemdefids": [
+        200037
+      ]
+    },
+    {
+      "path": "assets/generated/item-zhuji_late-fire_resistance-rare.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-zhuji_late-fire_resistance-rare.png",
+      "sha256": "fc32c720fb8651320e47c0978bf262a2adc6cad3ea3cd5e72b49c54ef24bc4b1",
+      "bytes": 20516,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.zhuji_late.fire_resistance.rare"
+      ],
+      "itemdefids": [
+        200038
+      ]
+    },
+    {
+      "path": "assets/generated/item-zhuji_late-gloves-standard.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-zhuji_late-gloves-standard.png",
+      "sha256": "160682fe0a8f85c366ddbb83ef664282a30db827af8b5c1fa85f9139b0b44fb4",
+      "bytes": 22429,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.zhuji_late.gloves.standard"
+      ],
+      "itemdefids": [
+        100324,
+        100337,
+        100354,
+        100367,
+        100380,
+        200136
+      ]
+    },
+    {
+      "path": "assets/generated/item-zhuji_late-gold_exchange.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-zhuji_late-gold_exchange.png",
+      "sha256": "53d25fc8a3489e6f465f04dbb87dad3c06dc32901f281b8ab050a697a7d294b0",
+      "bytes": 24165,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.zhuji_late.gold_exchange"
+      ],
+      "itemdefids": [
+        200070
+      ]
+    },
+    {
+      "path": "assets/generated/item-zhuji_late-helmet-standard.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-zhuji_late-helmet-standard.png",
+      "sha256": "5b99d3ca21a6f67652e5de21dd63a2cb6e40412936e0c56dd452214ce98ac511",
+      "bytes": 22588,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.zhuji_late.helmet.standard"
+      ],
+      "itemdefids": [
+        100325,
+        100338,
+        100355,
+        100368,
+        100381,
+        200137
+      ]
+    },
+    {
+      "path": "assets/generated/item-zhuji_late-necklace-standard.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-zhuji_late-necklace-standard.png",
+      "sha256": "1eaf5a877865fe1cedcf3b1b9b190b3c5d762a6e8de8e1d7ce1d5769b891f222",
+      "bytes": 17698,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.zhuji_late.necklace.standard"
+      ],
+      "itemdefids": [
+        100326,
+        100339,
+        100356,
+        100369,
+        100382,
+        200141
+      ]
+    },
+    {
+      "path": "assets/generated/item-zhuji_late-ring.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-zhuji_late-ring.png",
+      "sha256": "eddf785f84c4b4a0d25384ee34cb41f5e79be1bf625cf6e976cfd33599ee8cfd",
+      "bytes": 17998,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.zhuji_late.ring"
+      ],
+      "itemdefids": [
+        100327,
+        100340,
+        100357,
+        100370,
+        100383,
+        200142
+      ]
+    },
+    {
+      "path": "assets/generated/item-zhuji_late-sword-sub_weapon-standard.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-zhuji_late-sword-sub_weapon-standard.png",
+      "sha256": "4c277ddf064d36517236e976dbd86eb5a2d5fdafd6d679c343f3d5d0c4494252",
+      "bytes": 12959,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.zhuji_late.sword.sub_weapon.standard"
+      ],
+      "itemdefids": [
+        100329,
+        100342,
+        100359,
+        100372,
+        100385,
+        200144
+      ]
+    },
+    {
+      "path": "assets/generated/item-zhuji_late-sword.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-zhuji_late-sword.png",
+      "sha256": "76593b3507071b759a88e67cbd8a7e7189d055c108276e702c536935959a3212",
+      "bytes": 10032,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.zhuji_late.sword"
+      ],
+      "itemdefids": [
+        100328,
+        100341,
+        100358,
+        100371,
+        100384,
+        200139
+      ]
+    },
+    {
+      "path": "assets/generated/item-zhuji_late-talisman-sub_weapon-standard.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-zhuji_late-talisman-sub_weapon-standard.png",
+      "sha256": "aa33873cfd36c7db8880b22608e92e1ea304d9d8c152f658a2fb83f342a4ec45",
+      "bytes": 29685,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.zhuji_late.talisman.sub_weapon.standard"
+      ],
+      "itemdefids": [
+        100331,
+        100344,
+        100361,
+        100374,
+        100387,
+        200145
+      ]
+    },
+    {
+      "path": "assets/generated/item-zhuji_late-talisman.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-zhuji_late-talisman.png",
+      "sha256": "8b0501d45e2b621718e8de85af5eb563fd07debe855f564efd09ef5ae1b1a03a",
+      "bytes": 32036,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.zhuji_late.talisman"
+      ],
+      "itemdefids": [
+        100330,
+        100343,
+        100360,
+        100373,
+        100386,
+        200140
+      ]
+    },
+    {
+      "path": "assets/generated/item-zhuji_middle-alchemist-sub_weapon-standard.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-zhuji_middle-alchemist-sub_weapon-standard.png",
+      "sha256": "8e1806d87bb71d79dbb66634bbe674821905d0c42db67c6c25a81a57019a2451",
+      "bytes": 21476,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.zhuji_middle.alchemist.sub_weapon.standard"
+      ],
+      "itemdefids": [
+        100388,
+        100402,
+        100416,
+        100430,
+        100444,
+        200157
+      ]
+    },
+    {
+      "path": "assets/generated/item-zhuji_middle-alchemy.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-zhuji_middle-alchemy.png",
+      "sha256": "c1de5c907f98a82a555184aa7c143094689d370a78d2f7836d3ec2d17fc460cb",
+      "bytes": 21924,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.zhuji_middle.alchemy"
+      ],
+      "itemdefids": [
+        100389,
+        100403,
+        100417,
+        100431,
+        100445,
+        200152
+      ]
+    },
+    {
+      "path": "assets/generated/item-zhuji_middle-boots-standard.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-zhuji_middle-boots-standard.png",
+      "sha256": "729f8defb1fa5708f3d1c1846306471d90a6c27f67c44caf90911db97a7aabac",
+      "bytes": 16355,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.zhuji_middle.boots.standard"
+      ],
+      "itemdefids": [
+        100390,
+        100404,
+        100418,
+        100432,
+        100446,
+        200146
+      ]
+    },
+    {
+      "path": "assets/generated/item-zhuji_middle-boss_ticket.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-zhuji_middle-boss_ticket.png",
+      "sha256": "f9597bdaed561d2e46eaefdd697f7823eb03eda55c66c516bed42578cdd82946",
+      "bytes": 17620,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.zhuji_middle.boss_ticket"
+      ],
+      "itemdefids": [
+        200066
+      ]
+    },
+    {
+      "path": "assets/generated/item-zhuji_middle-bracer-standard.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-zhuji_middle-bracer-standard.png",
+      "sha256": "219e868e58b1c282b982246ac31bcab72066ab896e986bfeea5cae3cdae88e33",
+      "bytes": 19866,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.zhuji_middle.bracer.standard"
+      ],
+      "itemdefids": [
+        100391,
+        100405,
+        100419,
+        100433,
+        100447,
+        200147
+      ]
+    },
+    {
+      "path": "assets/generated/item-zhuji_middle-crafting-accessory.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-zhuji_middle-crafting-accessory.png",
+      "sha256": "74cd9fb2eae02ef5aa332af9385be1452ee4b20eb166f406247139459847f87f",
+      "bytes": 15960,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.zhuji_middle.crafting.accessory"
+      ],
+      "itemdefids": [
+        200040
+      ]
+    },
+    {
+      "path": "assets/generated/item-zhuji_middle-crafting-gear.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-zhuji_middle-crafting-gear.png",
+      "sha256": "480ea6b114a25475b7a58588edb22a74681dcc8e6db2e676bac53eb505f4f358",
+      "bytes": 25260,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.zhuji_middle.crafting.gear"
+      ],
+      "itemdefids": [
+        200041
+      ]
+    },
+    {
+      "path": "assets/generated/item-zhuji_middle-earring-standard.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-zhuji_middle-earring-standard.png",
+      "sha256": "7eb82a9762d560da7d66d460ea90e5a332ebafe455eefcc2432ffca3cf4dd809",
+      "bytes": 9878,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.zhuji_middle.earring.standard"
+      ],
+      "itemdefids": [
+        100392,
+        100406,
+        100420,
+        100434,
+        100448,
+        200149
+      ]
+    },
+    {
+      "path": "assets/generated/item-zhuji_middle-gloves-standard.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-zhuji_middle-gloves-standard.png",
+      "sha256": "8eec22396c1e7ac66a046e4219693c0975076e0e1b53efe3a11a6e64b104b657",
+      "bytes": 22709,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.zhuji_middle.gloves.standard"
+      ],
+      "itemdefids": [
+        100393,
+        100407,
+        100421,
+        100435,
+        100449,
+        200150
+      ]
+    },
+    {
+      "path": "assets/generated/item-zhuji_middle-gold_exchange.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-zhuji_middle-gold_exchange.png",
+      "sha256": "011c933e181932a2708f4745f3a49b61914c19f6666e07e39dd62862cd9d5202",
+      "bytes": 20123,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.zhuji_middle.gold_exchange"
+      ],
+      "itemdefids": [
+        200069
+      ]
+    },
+    {
+      "path": "assets/generated/item-zhuji_middle-helmet-standard.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-zhuji_middle-helmet-standard.png",
+      "sha256": "593daad428736e8e77ecb5e0fc7da8487e04eb76baca6a844916417a1898a088",
+      "bytes": 19157,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.zhuji_middle.helmet.standard"
+      ],
+      "itemdefids": [
+        100394,
+        100408,
+        100422,
+        100436,
+        100450,
+        200151
+      ]
+    },
+    {
+      "path": "assets/generated/item-zhuji_middle-marrow_jade.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-zhuji_middle-marrow_jade.png",
+      "sha256": "51aff436d436b6d7527291c1a3a679925bd8d44c46fa592e80efb3f9a2511e1e",
+      "bytes": 23843,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.zhuji_middle.marrow_jade"
+      ],
+      "itemdefids": [
+        200042
+      ]
+    },
+    {
+      "path": "assets/generated/item-zhuji_middle-necklace-standard.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-zhuji_middle-necklace-standard.png",
+      "sha256": "f753591f7478ddd0eeba05c58d890a04605361741d3868198c554dc6c99eab9a",
+      "bytes": 16971,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.zhuji_middle.necklace.standard"
+      ],
+      "itemdefids": [
+        100395,
+        100409,
+        100423,
+        100437,
+        100451,
+        200155
+      ]
+    },
+    {
+      "path": "assets/generated/item-zhuji_middle-ring.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-zhuji_middle-ring.png",
+      "sha256": "04c1083f2b447daec36fc108b4fe654157aa08ceddb2127bf660ee759ae96997",
+      "bytes": 21952,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.zhuji_middle.ring"
+      ],
+      "itemdefids": [
+        100396,
+        100410,
+        100424,
+        100438,
+        100452,
+        200156
+      ]
+    },
+    {
+      "path": "assets/generated/item-zhuji_middle-robe.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-zhuji_middle-robe.png",
+      "sha256": "03dd5e731766b4a68de6734af6453bf8dcd77305337a1a6a4bfd241fd70b8e7b",
+      "bytes": 24356,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.zhuji_middle.robe",
+        "item.zhuji_late.clothes.standard"
+      ],
+      "itemdefids": [
+        100397,
+        100411,
+        100425,
+        100439,
+        100453,
+        200056,
+        200057,
+        200058,
+        200059,
+        200060,
+        200134,
+        200148
+      ]
+    },
+    {
+      "path": "assets/generated/item-zhuji_middle-sword-sub_weapon-standard.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-zhuji_middle-sword-sub_weapon-standard.png",
+      "sha256": "dd19856ea7d0b75cd9e44b6906f26911b5306ad15e3839dde4fbe78197b04073",
+      "bytes": 16717,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.zhuji_middle.sword.sub_weapon.standard"
+      ],
+      "itemdefids": [
+        100399,
+        100413,
+        100427,
+        100441,
+        100455,
+        200158
+      ]
+    },
+    {
+      "path": "assets/generated/item-zhuji_middle-sword.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-zhuji_middle-sword.png",
+      "sha256": "41d6fef0588535c7a60b7a418734fa3210f108749794b06ceac6ebff9373e65e",
+      "bytes": 13341,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.zhuji_middle.sword"
+      ],
+      "itemdefids": [
+        100398,
+        100412,
+        100426,
+        100440,
+        100454,
+        200153
+      ]
+    },
+    {
+      "path": "assets/generated/item-zhuji_middle-talisman-sub_weapon-standard.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-zhuji_middle-talisman-sub_weapon-standard.png",
+      "sha256": "b7f52c727e2c23912978cd05a13c80753fba8454563cfa053c042cf4e8778683",
+      "bytes": 24217,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.zhuji_middle.talisman.sub_weapon.standard"
+      ],
+      "itemdefids": [
+        100401,
+        100415,
+        100429,
+        100443,
+        100457,
+        200159
+      ]
+    },
+    {
+      "path": "assets/generated/item-zhuji_middle-talisman.png",
+      "url": "https://luyh7.github.io/immortal-inventory-assets/releases/2026-10-26-394c93430936/assets/generated/item-zhuji_middle-talisman.png",
+      "sha256": "2e635290a8f8e2eb6af2d07bcb0b669c90732215a577ca5b11e970e5784ba2cc",
+      "bytes": 26126,
+      "width": 132,
+      "height": 132,
+      "resourceIds": [
+        "item.zhuji_middle.talisman"
+      ],
+      "itemdefids": [
+        100400,
+        100414,
+        100428,
+        100442,
+        100456,
+        200154
+      ]
+    }
+  ]
+}
